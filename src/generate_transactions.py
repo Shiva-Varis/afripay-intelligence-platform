@@ -9,7 +9,7 @@ transaction_rows = [
         "transaction_id": f"TXN_{fake.unique.random_number(digits=7, fix_len=True)}",
         "sender": fake.name(),
         "receiver": fake.name(),
-        "amount": fake.pydecimal(min_value=50, max_value=20000000, right_digits=2),
+        "amount": float(fake.pydecimal(min_value=50, max_value=20000000, right_digits=2)),
         "currency": curr,
         "country": country,
         "channel": fake.random_element(elements=['card', 'mobile money', 'bank transfer']),
