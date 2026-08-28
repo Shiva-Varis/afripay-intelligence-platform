@@ -1,0 +1,1002 @@
+transaction_id,sender,receiver,amount,currency,country,channel,status,timestamp
+TXN_9746143,Angela Okonkwo,Michael Eze,"76,659,511.00",NGN,Nigeria,mobile money,failed,2026-07-18
+TXN_6190071,Paul Akinwale,Juliet Adetokunbo,"1,190,772.00",KES,Kenya,card,success,2026-05-06
+TXN_2026842,David Nnamani,Deborah Olawale,"31,291,115.00",ZAR,South Africa,mobile money,failed,2024-10-26
+TXN_9070190,Gabriel Ojo,Gabriel Chukwu,"47,795,080.00",GHS,Ghana,mobile money,pending,2025-10-04
+TXN_3400762,Michael Nnamani,Sarah Oshodi,"41,548,422.00",NGN,Nigeria,mobile money,success,2024-12-30
+TXN_8915585,Benjamin Balogun,Esther Abiola,"78,713,886.00",KES,Kenya,mobile money,success,2026-02-02
+TXN_4219276,Mary Nnamani,John Okonkwo,"37,284,724.00",ZAR,South Africa,mobile money,success,2024-10-12
+TXN_2571543,David Ojo,Stephen Obasanjo,"38,328,211.00",USD,United States,bank transfer,success,2024-09-19
+TXN_1249369,James Okafor,Angela Adetokunbo,"99,538,408.00",USD,United States,mobile money,pending,2025-06-01
+TXN_1067602,Michael Akinwale,Daniel Nnamani,"5,401,471.00",ZAR,South Africa,mobile money,success,2025-12-06
+TXN_5679644,Cornelius Nnamani,Blessing Okafor,"40,024,058.00",USD,United States,mobile money,pending,2026-04-16
+TXN_3445644,Michael Oshodi,Deborah Adetokunbo,"69,204,475.00",GHS,Ghana,bank transfer,failed,2024-10-04
+TXN_6752273,Charity Adetokunbo,Angela Oshodi,"14,057,871.00",NGN,Nigeria,bank transfer,success,2025-01-13
+TXN_2003911,Victoria Ekwueme,Samuel Ibrahim,"39,667,951.00",KES,Kenya,card,failed,2025-01-10
+TXN_8815283,Peace Nnamani,Patience Balogun,"65,533,662.00",ZAR,South Africa,card,failed,2025-06-26
+TXN_8897225,Simon Olawale,Charity Okonkwo,"40,034,951.00",GHS,Ghana,card,success,2026-08-27
+TXN_7858266,Stephen Adetokunbo,Joy Oshodi,"97,268,218.00",NGN,Nigeria,mobile money,failed,2025-06-14
+TXN_8253264,Peter Oyekan,Cornelius Ibrahim,"41,105,292.00",ZAR,South Africa,card,pending,2025-03-16
+TXN_6211272,Angela Ibrahim,Agnes Uche,"75,100,556.00",NGN,Nigeria,bank transfer,success,2025-10-17
+TXN_9207506,Grace Balogun,Juliet Obasanjo,"31,220,447.00",KES,Kenya,mobile money,failed,2024-12-17
+TXN_5272537,Mary Chukwu,Joseph Eze,"90,550,354.00",KES,Kenya,bank transfer,success,2025-08-26
+TXN_6177082,Elizabeth Ekwueme,Peter Uche,"33,241,242.00",KES,Kenya,mobile money,success,2025-08-18
+TXN_8271506,Samuel Uche,Andrew Chukwu,"1,314,934.00",USD,United States,bank transfer,pending,2026-08-10
+TXN_4968322,Elizabeth Obasanjo,John Eze,"74,886,775.00",NGN,Nigeria,bank transfer,failed,2024-12-10
+TXN_5040938,Victoria Obasanjo,Joshua Oshodi,"13,450,697.00",NGN,Nigeria,card,success,2025-01-31
+TXN_6058900,Gloria Oyekan,Hope Ojo,"99,841,388.00",GHS,Ghana,mobile money,failed,2025-08-07
+TXN_3700032,Andrew Akinwale,Emmanuel Okafor,"27,019,458.00",GHS,Ghana,card,success,2026-05-19
+TXN_5659312,David Adetokunbo,Juliet Ojo,"58,693,445.00",KES,Kenya,card,failed,2025-03-28
+TXN_8888314,Mark Ojo,Juliet Nnamani,"24,322,777.00",GHS,Ghana,card,failed,2026-07-28
+TXN_2753836,Joy Olawale,Paul Nnamani,"3,977,149.00",USD,United States,card,failed,2024-10-24
+TXN_9323218,James Okonkwo,Nathaniel Nnamani,"18,748,984.00",GHS,Ghana,mobile money,success,2025-02-05
+TXN_8471363,Joseph Oshodi,Victoria Okafor,"52,025,127.00",GHS,Ghana,bank transfer,failed,2025-05-08
+TXN_4422249,Hope Ojo,Joseph Adetokunbo,"30,359,184.00",NGN,Nigeria,bank transfer,success,2026-03-15
+TXN_4097729,Joy Obasanjo,Hope Adetokunbo,"91,800,560.00",GHS,Ghana,card,pending,2026-02-04
+TXN_8271446,Sarah Balogun,Blessing Chukwu,"18,081,311.00",KES,Kenya,mobile money,failed,2026-06-19
+TXN_5300234,Peter Olawale,Peter Ogunleye,"86,491,691.00",ZAR,South Africa,card,success,2024-09-19
+TXN_7444955,David Balogun,Grace Obasanjo,"82,705,715.00",ZAR,South Africa,card,pending,2025-05-12
+TXN_5695602,Andrew Oshodi,Ruth Okonkwo,"56,056,347.00",KES,Kenya,card,failed,2025-05-28
+TXN_3615475,Paul Ibrahim,Mark Ibrahim,"16,539,545.00",ZAR,South Africa,mobile money,success,2025-07-12
+TXN_1304321,Elizabeth Okafor,Sarah Olawale,"99,802,106.00",ZAR,South Africa,bank transfer,success,2025-10-05
+TXN_7682372,Michael Adetokunbo,Sarah Abiola,"10,898,950.00",GHS,Ghana,card,success,2025-02-10
+TXN_2720711,Ruth Oshodi,Samuel Olawale,"47,318,075.00",GHS,Ghana,mobile money,failed,2025-02-17
+TXN_6418478,Samuel Ogunleye,Samuel Obasanjo,"51,231,504.00",ZAR,South Africa,mobile money,success,2025-06-06
+TXN_5148006,Juliet Eze,James Adeyemi,"83,464,706.00",NGN,Nigeria,bank transfer,failed,2026-05-06
+TXN_6654787,Grace Abiola,Philip Adeyemi,"63,453,247.00",KES,Kenya,card,success,2025-10-24
+TXN_9933041,Esther Okonkwo,Paul Oshodi,"59,226,334.00",ZAR,South Africa,bank transfer,pending,2024-10-17
+TXN_6400154,Stephen Uche,Juliet Oshodi,"15,311,035.00",NGN,Nigeria,mobile money,failed,2025-07-21
+TXN_1206630,Simon Adetokunbo,Sarah Eze,"97,882,568.00",KES,Kenya,bank transfer,success,2026-02-20
+TXN_3319753,Joshua Oshodi,Mary Abiola,"36,702,036.00",USD,United States,card,failed,2025-10-01
+TXN_9130017,Joy Uche,Elizabeth Ekwueme,"3,829,696.00",KES,Kenya,mobile money,pending,2026-08-23
+TXN_5785469,Grace Oyekan,Gloria Eze,"36,442,809.00",KES,Kenya,bank transfer,success,2024-12-11
+TXN_7366317,Joshua Okonkwo,Emmanuel Oshodi,"62,566,653.00",GHS,Ghana,bank transfer,pending,2024-12-29
+TXN_3203073,David Akinwale,John Chukwu,"9,136,290.00",NGN,Nigeria,mobile money,failed,2025-02-05
+TXN_6400757,Deborah Adetokunbo,Hope Obasanjo,"27,634,139.00",KES,Kenya,card,success,2026-03-22
+TXN_9296019,Victoria Oyekan,Faith Nnamani,"15,967,837.00",ZAR,South Africa,mobile money,failed,2026-01-02
+TXN_6295017,Benjamin Chukwu,Sarah Ojo,"31,410,563.00",ZAR,South Africa,mobile money,success,2025-05-04
+TXN_1172323,Paul Oyekan,Peace Nnamani,"69,465,453.00",NGN,Nigeria,mobile money,success,2025-06-03
+TXN_4206077,Juliet Okafor,Paul Chukwu,"93,429,257.00",GHS,Ghana,card,pending,2025-11-25
+TXN_1701440,Grace Ogunleye,James Ekwueme,"30,193,956.00",KES,Kenya,card,success,2025-05-14
+TXN_2966321,Nathaniel Eze,Joshua Ogunleye,"9,830,825.00",KES,Kenya,bank transfer,failed,2026-05-16
+TXN_3552153,Samuel Eze,Benjamin Uche,"10,214,142.00",ZAR,South Africa,bank transfer,pending,2026-01-28
+TXN_5667687,Cornelius Uche,Joy Ekwueme,"37,139,147.00",USD,United States,mobile money,pending,2026-06-02
+TXN_7515423,Daniel Olawale,Juliet Ogunleye,"54,494,397.00",GHS,Ghana,card,pending,2026-02-22
+TXN_9243599,Joseph Akinwale,James Chukwu,"3,555,245.00",ZAR,South Africa,mobile money,failed,2025-09-09
+TXN_6830328,Joshua Oyekan,Emmanuel Balogun,"60,525,500.00",KES,Kenya,card,success,2025-06-16
+TXN_2154364,Patience Ekwueme,Simon Nnamani,"69,126,204.00",USD,United States,card,failed,2025-02-21
+TXN_9221759,Paul Adeyemi,Joshua Eze,"67,582,761.00",KES,Kenya,bank transfer,pending,2024-09-09
+TXN_9100911,David Oshodi,Emmanuel Obi,"4,241,103.00",ZAR,South Africa,card,failed,2026-01-28
+TXN_6548751,Angela Adeyemi,Mark Nnamani,"45,448,113.00",USD,United States,card,failed,2026-04-16
+TXN_6209689,Daniel Obasanjo,Paul Oshodi,"3,463,740.00",KES,Kenya,card,success,2025-10-01
+TXN_3189323,Angela Okafor,Gloria Uche,"95,003,033.00",KES,Kenya,bank transfer,pending,2025-03-16
+TXN_8724421,Patience Oyekan,Michael Ojo,"27,671,044.00",USD,United States,card,failed,2026-02-20
+TXN_4991620,Deborah Obasanjo,Gabriel Abiola,"32,783,168.00",NGN,Nigeria,bank transfer,failed,2024-09-11
+TXN_9495373,Comfort Balogun,Blessing Ojo,"48,400,556.00",GHS,Ghana,bank transfer,success,2026-04-11
+TXN_7718773,Grace Okonkwo,Michael Obi,"89,912,017.00",NGN,Nigeria,card,success,2025-08-08
+TXN_5231546,Faith Adeyemi,Nathaniel Olawale,"78,653,803.00",ZAR,South Africa,card,failed,2026-01-22
+TXN_9147898,Peter Chukwu,Gloria Oyekan,"10,269,667.00",ZAR,South Africa,bank transfer,failed,2026-02-26
+TXN_7037744,Mark Okafor,Philip Ojo,"98,322,411.00",GHS,Ghana,mobile money,failed,2025-04-28
+TXN_9470076,Comfort Eze,Gloria Adeyemi,"48,295,477.00",ZAR,South Africa,mobile money,pending,2024-12-08
+TXN_2023922,Hope Okonkwo,Peace Ekwueme,"85,963,127.00",ZAR,South Africa,mobile money,success,2024-12-30
+TXN_2839125,Blessing Obi,Mark Oshodi,"33,847,679.00",KES,Kenya,mobile money,success,2025-11-15
+TXN_5344304,Benjamin Oyekan,Emmanuel Abiola,"66,865,360.00",USD,United States,card,success,2025-10-27
+TXN_2096727,Gabriel Obasanjo,Daniel Obasanjo,"71,564,802.00",ZAR,South Africa,mobile money,pending,2026-03-12
+TXN_9034773,Juliet Obasanjo,Joy Oyekan,"92,426,334.00",GHS,Ghana,bank transfer,success,2026-08-22
+TXN_4075216,Michael Okonkwo,Mark Obi,"84,569,426.00",ZAR,South Africa,bank transfer,success,2026-04-22
+TXN_5054040,Andrew Akinwale,Peter Ojo,"43,895,681.00",ZAR,South Africa,mobile money,pending,2026-02-09
+TXN_1629754,Angela Adeyemi,Joseph Uche,"93,016,416.00",USD,United States,card,pending,2024-10-15
+TXN_6496989,David Oyekan,Comfort Chukwu,"17,398,195.00",ZAR,South Africa,mobile money,success,2025-12-19
+TXN_9943015,Ruth Ojo,Paul Akinwale,"6,884,023.00",GHS,Ghana,mobile money,failed,2024-10-02
+TXN_6637204,Ruth Obi,Charity Olawale,"99,651,732.00",USD,United States,bank transfer,failed,2025-09-17
+TXN_9790037,Philip Uche,Gloria Nnamani,"59,996,889.00",NGN,Nigeria,card,failed,2026-03-11
+TXN_5293445,Joy Eze,Patience Abiola,"88,997,399.00",ZAR,South Africa,card,pending,2026-06-10
+TXN_2904867,Mary Oshodi,Ruth Abiola,"17,152,519.00",ZAR,South Africa,bank transfer,success,2025-11-01
+TXN_9918160,Andrew Uche,Stephen Okafor,"90,728,512.00",NGN,Nigeria,card,success,2025-11-19
+TXN_3936417,Gabriel Balogun,James Adetokunbo,"72,049,382.00",ZAR,South Africa,mobile money,pending,2026-03-30
+TXN_9688437,David Ojo,Esther Abiola,"68,601,877.00",KES,Kenya,mobile money,failed,2026-08-25
+TXN_2581914,Samuel Uche,Paul Abiola,"21,072,512.00",GHS,Ghana,mobile money,pending,2026-03-30
+TXN_6398801,Philip Ojo,Esther Adetokunbo,"68,597,175.00",GHS,Ghana,card,success,2026-04-18
+TXN_1088007,Joseph Ibrahim,Gloria Uche,"43,338,690.00",USD,United States,bank transfer,pending,2024-10-02
+TXN_6284526,Cornelius Oyekan,Paul Balogun,"89,446,946.00",USD,United States,mobile money,failed,2025-07-18
+TXN_3430973,Gloria Obi,David Uche,"51,916,476.00",ZAR,South Africa,card,success,2025-11-29
+TXN_4010858,Daniel Obi,Patience Nnamani,"2,822,677.00",GHS,Ghana,card,failed,2025-10-27
+TXN_4023900,Sarah Ekwueme,Philip Nnamani,"20,985,822.00",NGN,Nigeria,mobile money,failed,2025-11-07
+TXN_9156246,Peter Olawale,Philip Olawale,"63,596,407.00",GHS,Ghana,card,success,2026-02-19
+TXN_3129700,Juliet Ogunleye,Philip Balogun,"24,978,215.00",NGN,Nigeria,card,pending,2026-06-20
+TXN_2357993,Hope Ogunleye,Charity Oyekan,"67,336,590.00",KES,Kenya,mobile money,success,2025-08-11
+TXN_3275118,Faith Nnamani,Andrew Adeyemi,"99,769,761.00",NGN,Nigeria,card,success,2024-11-02
+TXN_3669995,Joy Oshodi,John Olawale,"70,360,342.00",NGN,Nigeria,mobile money,failed,2026-04-06
+TXN_7196732,Grace Akinwale,Elizabeth Ekwueme,"72,003,258.00",ZAR,South Africa,mobile money,pending,2026-05-29
+TXN_6940789,Elizabeth Oshodi,Philip Oshodi,"80,872,745.00",KES,Kenya,bank transfer,pending,2025-12-17
+TXN_6723133,Joy Okonkwo,Emmanuel Eze,"13,007,019.00",KES,Kenya,bank transfer,success,2026-04-15
+TXN_7248592,Daniel Ekwueme,Charity Ojo,"61,188,508.00",ZAR,South Africa,mobile money,success,2025-03-10
+TXN_8986704,Grace Obi,Simon Ojo,"39,171,556.00",USD,United States,mobile money,pending,2025-08-03
+TXN_9133372,Grace Oyekan,Michael Okafor,"23,965,997.00",GHS,Ghana,bank transfer,success,2025-04-01
+TXN_4980779,Juliet Eze,Peter Ogunleye,"39,130,513.00",NGN,Nigeria,bank transfer,failed,2025-10-24
+TXN_2538854,Mark Chukwu,Angela Chukwu,"32,599,852.00",NGN,Nigeria,mobile money,success,2026-08-01
+TXN_4591866,Joshua Nnamani,Joy Oyekan,"95,005,115.00",GHS,Ghana,bank transfer,success,2025-04-14
+TXN_6333068,Angela Obi,Stephen Obasanjo,"96,128,907.00",ZAR,South Africa,mobile money,success,2024-11-09
+TXN_8156295,Mary Ogunleye,Joshua Uche,"36,617,557.00",USD,United States,card,pending,2025-10-11
+TXN_1595756,Benjamin Adetokunbo,Ruth Ogunleye,"29,124,915.00",GHS,Ghana,bank transfer,pending,2025-01-09
+TXN_9018383,Paul Akinwale,Deborah Chukwu,"7,532,490.00",NGN,Nigeria,card,pending,2025-11-21
+TXN_3744234,Emmanuel Oshodi,Peter Adeyemi,"18,630,413.00",KES,Kenya,card,failed,2024-11-14
+TXN_6580258,Hope Eze,Gloria Oshodi,"50,791,895.00",KES,Kenya,mobile money,success,2026-03-16
+TXN_7635067,Michael Balogun,Emmanuel Nnamani,"81,099,796.00",KES,Kenya,bank transfer,failed,2025-04-02
+TXN_1487456,Benjamin Eze,James Balogun,"34,417,756.00",ZAR,South Africa,card,failed,2025-11-10
+TXN_1224306,Agnes Ogunleye,Angela Obasanjo,"71,250,232.00",ZAR,South Africa,bank transfer,success,2025-10-18
+TXN_7531519,Gabriel Oyekan,Paul Uche,"6,898,979.00",NGN,Nigeria,mobile money,failed,2024-09-02
+TXN_4152737,Deborah Obi,Ruth Adetokunbo,"81,388,701.00",KES,Kenya,mobile money,pending,2025-05-11
+TXN_8399097,Mark Oshodi,Victoria Obasanjo,"29,032,662.00",GHS,Ghana,bank transfer,pending,2025-04-23
+TXN_8641730,Peace Balogun,Joy Oshodi,"64,846,926.00",ZAR,South Africa,card,failed,2025-06-03
+TXN_4974210,Patience Ibrahim,Andrew Okafor,"57,664,469.00",KES,Kenya,card,success,2026-03-31
+TXN_1790778,Benjamin Nnamani,Hope Adeyemi,"22,916,539.00",ZAR,South Africa,bank transfer,success,2024-11-30
+TXN_2348963,Stephen Nnamani,Victoria Okonkwo,"86,130,171.00",KES,Kenya,card,success,2026-05-22
+TXN_3108881,Ruth Ekwueme,Philip Uche,"51,648,746.00",KES,Kenya,mobile money,pending,2025-09-19
+TXN_6729263,Agnes Oyekan,Deborah Eze,"76,098,832.00",GHS,Ghana,bank transfer,pending,2025-02-21
+TXN_9350272,Comfort Oyekan,Comfort Ojo,"91,763,025.00",GHS,Ghana,bank transfer,failed,2024-09-08
+TXN_7402512,Mark Adetokunbo,Simon Okafor,"58,386,151.00",GHS,Ghana,mobile money,success,2026-03-17
+TXN_4030250,Comfort Ogunleye,Elizabeth Oyekan,"66,926,291.00",USD,United States,card,failed,2025-04-19
+TXN_5088378,Faith Okonkwo,Comfort Okafor,"36,180,326.00",KES,Kenya,bank transfer,pending,2025-10-16
+TXN_4451687,Blessing Okafor,Philip Ogunleye,"35,573,841.00",USD,United States,bank transfer,success,2026-01-30
+TXN_3661898,Joshua Chukwu,Grace Chukwu,"36,533,602.00",NGN,Nigeria,card,success,2024-11-17
+TXN_7004573,Simon Oyekan,Ruth Adeyemi,"54,020,180.00",KES,Kenya,bank transfer,success,2024-11-03
+TXN_4486728,Esther Uche,Gabriel Ibrahim,"83,423,233.00",KES,Kenya,bank transfer,failed,2026-06-25
+TXN_1936913,John Adetokunbo,Esther Oyekan,"12,038,398.00",NGN,Nigeria,card,success,2025-02-18
+TXN_2512081,Andrew Abiola,Deborah Obi,"49,258,012.00",GHS,Ghana,mobile money,pending,2024-11-14
+TXN_7841222,John Ibrahim,Joshua Chukwu,"9,203,580.00",ZAR,South Africa,card,success,2026-02-24
+TXN_4385954,Mary Ekwueme,Faith Okafor,"84,625,020.00",USD,United States,bank transfer,failed,2024-12-11
+TXN_7791605,James Abiola,Cornelius Nnamani,"53,815,266.00",KES,Kenya,card,success,2026-02-21
+TXN_2241674,Angela Uche,Stephen Oshodi,"15,282,256.00",USD,United States,mobile money,pending,2025-09-20
+TXN_4611689,Grace Ekwueme,Charity Ibrahim,"42,019,478.00",GHS,Ghana,bank transfer,success,2026-06-12
+TXN_4632324,Joy Okonkwo,Ruth Uche,"59,230,688.00",KES,Kenya,card,failed,2025-07-19
+TXN_8088505,Stephen Ibrahim,Gloria Okafor,"16,973,260.00",KES,Kenya,card,pending,2025-12-28
+TXN_2351865,Charity Ogunleye,James Obasanjo,"57,800,761.00",KES,Kenya,card,failed,2025-07-29
+TXN_2718740,Nathaniel Akinwale,Michael Balogun,"55,307,725.00",ZAR,South Africa,mobile money,pending,2024-12-05
+TXN_1280083,Joshua Olawale,Joy Adeyemi,"73,849,238.00",GHS,Ghana,mobile money,pending,2025-06-20
+TXN_1438986,Joseph Eze,Juliet Ibrahim,"45,911,553.00",KES,Kenya,card,failed,2026-02-09
+TXN_9839509,James Adetokunbo,Juliet Okafor,"17,013,313.00",KES,Kenya,mobile money,failed,2024-10-23
+TXN_2177571,Deborah Oshodi,Emmanuel Uche,"37,603,912.00",USD,United States,mobile money,failed,2026-07-19
+TXN_3516180,Angela Ojo,Cornelius Obasanjo,"92,224,240.00",ZAR,South Africa,bank transfer,pending,2025-05-31
+TXN_6492511,Agnes Ogunleye,Simon Adeyemi,"18,219,602.00",GHS,Ghana,card,success,2025-05-28
+TXN_1103147,Joy Ekwueme,Peter Eze,"7,996,215.00",USD,United States,card,success,2026-03-31
+TXN_6009583,Charity Obasanjo,Emmanuel Uche,"54,260,333.00",KES,Kenya,card,success,2025-05-15
+TXN_7195056,Esther Ibrahim,Daniel Ibrahim,"20,159,767.00",NGN,Nigeria,card,failed,2025-11-08
+TXN_2321544,Michael Ogunleye,Angela Ibrahim,"79,541,869.00",KES,Kenya,mobile money,pending,2026-08-08
+TXN_9189152,Andrew Okonkwo,Andrew Ibrahim,"44,322,627.00",KES,Kenya,bank transfer,pending,2026-07-04
+TXN_7155982,Paul Oshodi,Grace Eze,"13,559,451.00",KES,Kenya,card,failed,2026-06-27
+TXN_1769105,Peter Okonkwo,Joshua Okafor,"58,830,588.00",ZAR,South Africa,mobile money,success,2024-12-06
+TXN_1873786,Charity Oshodi,David Olawale,"76,859,532.00",NGN,Nigeria,mobile money,pending,2025-12-05
+TXN_1502092,Paul Adetokunbo,Stephen Oshodi,"63,612,452.00",USD,United States,card,pending,2025-03-14
+TXN_1957483,Joy Ibrahim,Elizabeth Ekwueme,"86,355,575.00",USD,United States,mobile money,failed,2024-09-02
+TXN_9056528,Victoria Oshodi,Peace Akinwale,"93,289,812.00",GHS,Ghana,bank transfer,success,2025-09-16
+TXN_5749039,Nathaniel Okafor,Joshua Balogun,"99,445,875.00",KES,Kenya,mobile money,failed,2025-08-13
+TXN_1840169,James Obasanjo,Stephen Oshodi,"90,723,742.00",KES,Kenya,mobile money,success,2025-12-23
+TXN_6616530,Gloria Okonkwo,Gloria Oshodi,"95,093,377.00",KES,Kenya,mobile money,failed,2025-04-11
+TXN_8717277,Victoria Okafor,Daniel Ogunleye,"88,893,936.00",NGN,Nigeria,bank transfer,failed,2025-09-30
+TXN_4322711,Samuel Okafor,James Obasanjo,"55,864,161.00",KES,Kenya,bank transfer,success,2025-12-03
+TXN_9597348,Joy Nnamani,Michael Chukwu,"6,140,126.00",GHS,Ghana,bank transfer,failed,2026-07-09
+TXN_8086190,Peter Ogunleye,Gloria Akinwale,"73,848,431.00",USD,United States,card,failed,2026-02-23
+TXN_1743942,Stephen Balogun,Hope Ojo,"6,872,854.00",KES,Kenya,mobile money,pending,2026-02-20
+TXN_9215329,Simon Ogunleye,Blessing Ibrahim,"75,882,142.00",KES,Kenya,bank transfer,success,2026-03-11
+TXN_2686604,Gloria Adeyemi,Nathaniel Akinwale,"49,874,767.00",NGN,Nigeria,mobile money,failed,2025-01-17
+TXN_2160391,Hope Balogun,Stephen Obasanjo,"90,447,978.00",GHS,Ghana,mobile money,success,2025-10-17
+TXN_9191844,Ruth Oyekan,Michael Adeyemi,"87,227,089.00",KES,Kenya,card,failed,2024-10-22
+TXN_7103257,Benjamin Okonkwo,James Eze,"17,834,928.00",ZAR,South Africa,bank transfer,pending,2026-06-21
+TXN_4649209,Faith Oyekan,Mary Abiola,"890,266.00",ZAR,South Africa,card,pending,2026-08-04
+TXN_1888169,Peter Nnamani,Stephen Ogunleye,"68,107,706.00",GHS,Ghana,bank transfer,failed,2026-03-19
+TXN_8695844,Paul Adetokunbo,Gloria Obi,"95,515,195.00",ZAR,South Africa,card,success,2025-10-05
+TXN_4905607,Samuel Adeyemi,Elizabeth Balogun,"97,545,911.00",NGN,Nigeria,mobile money,success,2025-07-14
+TXN_9561463,Mary Ojo,Ruth Oyekan,"70,494,897.00",KES,Kenya,mobile money,pending,2025-01-25
+TXN_2742799,Benjamin Ibrahim,Peace Oshodi,"80,256,807.00",GHS,Ghana,card,pending,2025-05-10
+TXN_5018338,Grace Okafor,Victoria Ekwueme,"67,639,974.00",USD,United States,mobile money,failed,2025-12-27
+TXN_9142088,Emmanuel Ojo,Stephen Abiola,"36,436,219.00",NGN,Nigeria,card,success,2024-12-05
+TXN_2091777,Angela Uche,Mark Abiola,"81,428,204.00",ZAR,South Africa,mobile money,success,2024-11-21
+TXN_9110107,Charity Oyekan,Peace Ibrahim,"17,453,904.00",ZAR,South Africa,mobile money,failed,2026-08-04
+TXN_7430796,Andrew Akinwale,Michael Eze,"13,804,027.00",ZAR,South Africa,card,success,2025-05-08
+TXN_2054613,Ruth Olawale,Elizabeth Okafor,"99,678,338.00",NGN,Nigeria,mobile money,pending,2026-02-14
+TXN_1804392,Samuel Okafor,Paul Chukwu,"45,992,493.00",KES,Kenya,bank transfer,pending,2025-11-17
+TXN_2327644,Cornelius Oyekan,Peace Ogunleye,"25,405,178.00",GHS,Ghana,bank transfer,failed,2026-02-10
+TXN_6546465,Comfort Ibrahim,Joy Obi,"79,126,959.00",NGN,Nigeria,mobile money,success,2025-05-16
+TXN_3531397,Emmanuel Akinwale,Blessing Oyekan,"92,533,532.00",GHS,Ghana,bank transfer,failed,2026-01-25
+TXN_4795114,Joseph Okonkwo,Joy Ogunleye,"56,412,378.00",KES,Kenya,mobile money,success,2026-06-10
+TXN_8705884,Blessing Ogunleye,Comfort Nnamani,"40,170,370.00",KES,Kenya,mobile money,failed,2025-10-23
+TXN_3293208,Mark Balogun,Ruth Oshodi,"33,374,459.00",KES,Kenya,bank transfer,success,2025-08-25
+TXN_6681183,Blessing Nnamani,Agnes Adetokunbo,"59,000,762.00",USD,United States,mobile money,failed,2024-11-17
+TXN_8723664,Charity Adeyemi,Gloria Okonkwo,"68,114,836.00",NGN,Nigeria,bank transfer,failed,2026-02-04
+TXN_6566729,Angela Ekwueme,Simon Eze,"80,659,432.00",ZAR,South Africa,bank transfer,success,2024-12-14
+TXN_8911862,Patience Abiola,Ruth Adeyemi,"19,734,929.00",NGN,Nigeria,card,pending,2025-04-25
+TXN_9350897,Daniel Olawale,Juliet Ojo,"42,175,268.00",NGN,Nigeria,bank transfer,success,2025-12-04
+TXN_7550676,Joshua Balogun,Gabriel Okafor,"14,080,799.00",KES,Kenya,card,success,2025-04-25
+TXN_6136437,Philip Balogun,Mark Abiola,"65,168,828.00",KES,Kenya,card,failed,2026-08-04
+TXN_3543104,Deborah Nnamani,Samuel Ogunleye,"22,198,871.00",ZAR,South Africa,card,failed,2025-02-25
+TXN_1610779,Gabriel Balogun,Gabriel Okafor,"94,584,528.00",ZAR,South Africa,mobile money,pending,2025-01-19
+TXN_8122739,Mary Olawale,Peace Ekwueme,"60,975,449.00",GHS,Ghana,bank transfer,success,2025-08-21
+TXN_4725361,Elizabeth Ekwueme,Cornelius Uche,"39,356,691.00",KES,Kenya,bank transfer,success,2025-11-15
+TXN_6867647,Peace Oshodi,Faith Ogunleye,"63,872,957.00",KES,Kenya,mobile money,failed,2025-08-29
+TXN_3394813,John Okonkwo,Mary Uche,"41,466,983.00",KES,Kenya,card,failed,2026-06-03
+TXN_9125226,Ruth Ekwueme,Ruth Ojo,"32,409,041.00",GHS,Ghana,mobile money,failed,2024-09-08
+TXN_3463233,Paul Okafor,David Akinwale,"49,532,825.00",GHS,Ghana,card,success,2024-12-16
+TXN_8257626,Victoria Oshodi,Michael Oyekan,"24,982,991.00",KES,Kenya,bank transfer,pending,2025-11-14
+TXN_9589517,Mark Ibrahim,Agnes Akinwale,"15,895,152.00",NGN,Nigeria,mobile money,success,2025-08-09
+TXN_3250413,Joy Ojo,Comfort Oshodi,"17,693,770.00",ZAR,South Africa,card,failed,2024-10-16
+TXN_3560101,Paul Okonkwo,Elizabeth Ibrahim,"13,267,145.00",NGN,Nigeria,card,pending,2026-04-01
+TXN_3336440,Hope Uche,Daniel Obi,"68,888,031.00",GHS,Ghana,card,pending,2025-12-03
+TXN_5955435,Agnes Nnamani,Gabriel Ekwueme,"55,700,593.00",USD,United States,bank transfer,failed,2026-07-07
+TXN_4467908,Esther Oyekan,Peace Obi,"77,550,234.00",USD,United States,bank transfer,success,2026-05-20
+TXN_7417777,Paul Chukwu,Ruth Adetokunbo,"54,321,485.00",GHS,Ghana,card,pending,2024-08-27
+TXN_3549707,James Obi,Michael Obi,"85,782,847.00",ZAR,South Africa,card,failed,2025-10-22
+TXN_8420860,James Eze,Juliet Ekwueme,"72,689,818.00",NGN,Nigeria,bank transfer,pending,2025-01-31
+TXN_9044333,Benjamin Oyekan,Juliet Obasanjo,"88,026,031.00",NGN,Nigeria,card,pending,2026-03-07
+TXN_9253820,Elizabeth Akinwale,Deborah Akinwale,"43,922,444.00",KES,Kenya,bank transfer,pending,2026-02-23
+TXN_4752409,Ruth Akinwale,Victoria Chukwu,"62,665,786.00",KES,Kenya,mobile money,pending,2026-02-04
+TXN_4766765,James Oyekan,Philip Obasanjo,"77,102,318.00",KES,Kenya,bank transfer,failed,2025-05-06
+TXN_3170873,Joseph Olawale,Comfort Nnamani,"87,508,990.00",GHS,Ghana,bank transfer,success,2026-07-29
+TXN_7329289,Blessing Chukwu,Agnes Olawale,"54,892,870.00",KES,Kenya,bank transfer,failed,2025-06-30
+TXN_7050426,Mark Uche,Nathaniel Obasanjo,"88,297,000.00",GHS,Ghana,mobile money,pending,2025-11-13
+TXN_5279012,Hope Chukwu,Esther Ekwueme,"35,527,043.00",GHS,Ghana,bank transfer,pending,2024-12-07
+TXN_2099417,Paul Ibrahim,James Okafor,"73,534,530.00",KES,Kenya,mobile money,pending,2025-05-07
+TXN_3234702,Esther Olawale,Ruth Balogun,"71,615,857.00",KES,Kenya,mobile money,pending,2024-12-01
+TXN_4079538,Stephen Okonkwo,Benjamin Obi,"19,777,730.00",NGN,Nigeria,bank transfer,pending,2025-12-06
+TXN_6289807,Hope Abiola,Blessing Olawale,"61,611,985.00",ZAR,South Africa,bank transfer,pending,2025-08-31
+TXN_6996806,Peter Nnamani,John Akinwale,"73,950,806.00",USD,United States,bank transfer,pending,2026-01-10
+TXN_6484777,Michael Abiola,James Obi,"41,678,464.00",KES,Kenya,bank transfer,failed,2026-03-25
+TXN_8914194,Sarah Ogunleye,Faith Adetokunbo,"58,094,530.00",ZAR,South Africa,card,pending,2025-09-21
+TXN_9481334,Angela Ibrahim,Joshua Ekwueme,"83,452,936.00",NGN,Nigeria,card,failed,2025-06-13
+TXN_7187672,John Adeyemi,Peace Obi,"88,326,799.00",USD,United States,bank transfer,failed,2025-10-23
+TXN_9713231,Juliet Nnamani,Juliet Adetokunbo,"26,147,056.00",GHS,Ghana,mobile money,pending,2025-03-09
+TXN_5794490,Mark Obi,Patience Adetokunbo,"43,304,976.00",ZAR,South Africa,bank transfer,pending,2024-11-26
+TXN_5911821,Andrew Ibrahim,Victoria Chukwu,"8,019,062.00",GHS,Ghana,bank transfer,pending,2025-05-05
+TXN_2008374,Daniel Uche,Charity Obasanjo,"72,012,742.00",ZAR,South Africa,mobile money,pending,2025-05-14
+TXN_2877076,Esther Ogunleye,Stephen Balogun,"5,224,494.00",USD,United States,bank transfer,failed,2024-12-15
+TXN_7288229,Esther Adetokunbo,Hope Okonkwo,"82,196,361.00",GHS,Ghana,bank transfer,success,2025-09-15
+TXN_5511211,Esther Oyekan,Joy Obi,"7,356,482.00",KES,Kenya,mobile money,success,2026-08-26
+TXN_7117676,Emmanuel Chukwu,Mark Oyekan,"83,416,391.00",NGN,Nigeria,card,pending,2025-11-25
+TXN_1157145,Peter Oyekan,Esther Akinwale,"4,563,596.00",ZAR,South Africa,mobile money,pending,2025-11-21
+TXN_2397917,Angela Oshodi,Nathaniel Balogun,"92,326,936.00",KES,Kenya,bank transfer,failed,2026-05-27
+TXN_8460839,Joshua Olawale,Benjamin Obi,"24,046,500.00",GHS,Ghana,bank transfer,pending,2025-01-24
+TXN_3504350,Joshua Adetokunbo,Joseph Akinwale,"39,687,019.00",NGN,Nigeria,card,success,2025-10-30
+TXN_3529114,Gloria Obi,Joy Okonkwo,"12,645,581.00",GHS,Ghana,mobile money,pending,2025-07-17
+TXN_5593216,John Uche,Peace Obasanjo,"89,819,403.00",NGN,Nigeria,card,success,2025-08-17
+TXN_8294556,Andrew Ekwueme,Mary Ibrahim,"76,609,714.00",NGN,Nigeria,mobile money,failed,2024-11-28
+TXN_6646944,Esther Okafor,Joseph Uche,"25,995,842.00",USD,United States,card,success,2025-07-18
+TXN_4155205,Simon Eze,Hope Abiola,"74,462,580.00",USD,United States,bank transfer,failed,2024-12-17
+TXN_1901335,Daniel Ogunleye,Peace Obi,"19,423,281.00",USD,United States,card,pending,2025-12-17
+TXN_9940384,Blessing Okonkwo,Ruth Balogun,"58,469,366.00",USD,United States,mobile money,failed,2025-02-24
+TXN_6341562,Samuel Ekwueme,Esther Abiola,"45,956,113.00",ZAR,South Africa,mobile money,success,2025-08-08
+TXN_9485377,Blessing Obi,Michael Ekwueme,"98,817,369.00",NGN,Nigeria,bank transfer,success,2025-11-18
+TXN_1321315,Daniel Olawale,Emmanuel Olawale,"94,090,586.00",GHS,Ghana,bank transfer,pending,2025-06-10
+TXN_7499947,Charity Olawale,Mark Ekwueme,"68,243,138.00",KES,Kenya,mobile money,failed,2025-04-22
+TXN_6912605,Stephen Balogun,Gabriel Ekwueme,"41,377,989.00",ZAR,South Africa,mobile money,pending,2024-10-15
+TXN_3736740,Stephen Abiola,Simon Ekwueme,"92,539,707.00",ZAR,South Africa,bank transfer,success,2024-11-28
+TXN_2662943,Hope Uche,Stephen Abiola,"34,608,344.00",GHS,Ghana,card,success,2025-01-13
+TXN_1810433,Elizabeth Abiola,Blessing Okafor,"32,072,009.00",NGN,Nigeria,card,failed,2025-10-16
+TXN_5424008,Joseph Obasanjo,Mary Eze,"68,159,086.00",GHS,Ghana,bank transfer,pending,2025-04-23
+TXN_4364646,Angela Nnamani,Mary Okafor,"18,477,612.00",NGN,Nigeria,mobile money,pending,2026-02-22
+TXN_3621354,Mark Oyekan,Joy Ibrahim,"99,025,663.00",GHS,Ghana,bank transfer,failed,2025-12-08
+TXN_7114609,Angela Oshodi,Angela Obi,"57,404,597.00",NGN,Nigeria,mobile money,success,2025-02-17
+TXN_8175196,Ruth Okafor,Andrew Olawale,"7,458,019.00",KES,Kenya,card,success,2025-03-15
+TXN_3036401,Charity Olawale,Victoria Akinwale,"71,130,212.00",ZAR,South Africa,card,pending,2024-11-05
+TXN_8633860,Stephen Abiola,Peace Chukwu,"21,011,660.00",NGN,Nigeria,card,success,2025-05-26
+TXN_9761228,Deborah Ojo,Blessing Uche,"96,594,226.00",NGN,Nigeria,mobile money,success,2026-03-27
+TXN_5921549,Gloria Ibrahim,David Chukwu,"83,649,173.00",KES,Kenya,mobile money,failed,2025-11-24
+TXN_2494918,Mark Oyekan,Blessing Ogunleye,"656,740.00",ZAR,South Africa,bank transfer,pending,2026-08-12
+TXN_3773649,Paul Balogun,Agnes Ojo,"74,436,364.00",ZAR,South Africa,bank transfer,failed,2025-05-31
+TXN_5513107,Joseph Ogunleye,Deborah Oyekan,"5,154,878.00",NGN,Nigeria,card,success,2025-11-24
+TXN_9193455,Comfort Balogun,Grace Obasanjo,"16,162,756.00",GHS,Ghana,card,failed,2024-12-23
+TXN_3942537,Deborah Akinwale,Paul Ogunleye,"47,766,710.00",GHS,Ghana,card,failed,2025-04-29
+TXN_7717151,Gloria Eze,Deborah Uche,"62,491,780.00",ZAR,South Africa,bank transfer,pending,2024-11-05
+TXN_7013089,Simon Obi,Joy Abiola,"59,451,187.00",ZAR,South Africa,card,pending,2026-04-06
+TXN_3128532,Joshua Chukwu,Hope Oshodi,"3,492,950.00",USD,United States,bank transfer,success,2026-07-13
+TXN_7567587,Hope Nnamani,Gabriel Abiola,"94,421,386.00",NGN,Nigeria,card,failed,2025-07-16
+TXN_7828340,Andrew Okafor,Gabriel Okafor,"26,464,153.00",USD,United States,bank transfer,failed,2026-04-19
+TXN_8983045,Patience Olawale,Gloria Obi,"80,593,510.00",KES,Kenya,card,failed,2026-07-18
+TXN_2424790,Charity Ojo,Mark Obasanjo,"22,272,764.00",GHS,Ghana,mobile money,success,2026-06-15
+TXN_8869964,Daniel Akinwale,Agnes Olawale,"80,121,898.00",ZAR,South Africa,bank transfer,success,2026-04-09
+TXN_3831509,Comfort Akinwale,Cornelius Ogunleye,"6,630,098.00",USD,United States,bank transfer,success,2024-09-05
+TXN_5033324,Comfort Ojo,Hope Nnamani,"2,950,292.00",GHS,Ghana,bank transfer,failed,2025-04-26
+TXN_5976403,Angela Olawale,Hope Ogunleye,"44,139,657.00",GHS,Ghana,mobile money,success,2026-02-18
+TXN_3089272,Victoria Akinwale,Mark Obi,"10,570,763.00",USD,United States,bank transfer,success,2025-04-29
+TXN_9592688,Patience Obi,Angela Ogunleye,"99,046,966.00",GHS,Ghana,bank transfer,success,2025-06-13
+TXN_6801438,Agnes Ekwueme,Simon Chukwu,"73,735,297.00",USD,United States,bank transfer,success,2025-11-21
+TXN_5233159,Emmanuel Nnamani,Deborah Obasanjo,"40,048,047.00",GHS,Ghana,bank transfer,success,2025-10-04
+TXN_3868643,Samuel Oyekan,Mark Adetokunbo,"31,041,687.00",GHS,Ghana,mobile money,failed,2026-06-30
+TXN_6679228,Cornelius Oyekan,Philip Akinwale,"49,568,126.00",NGN,Nigeria,bank transfer,failed,2025-08-09
+TXN_6383159,Sarah Adeyemi,Mary Abiola,"50,810,729.00",NGN,Nigeria,mobile money,pending,2024-10-10
+TXN_8287465,Ruth Eze,Paul Adeyemi,"51,235,600.00",GHS,Ghana,bank transfer,success,2025-03-31
+TXN_4607210,Charity Olawale,Agnes Ogunleye,"45,349,563.00",KES,Kenya,mobile money,failed,2025-07-09
+TXN_2786865,Deborah Oyekan,David Okonkwo,"34,537,372.00",NGN,Nigeria,card,pending,2025-09-17
+TXN_1892893,John Obasanjo,Sarah Ogunleye,"88,298,260.00",KES,Kenya,mobile money,pending,2025-12-09
+TXN_8813986,Michael Adetokunbo,Samuel Ekwueme,"83,641,787.00",KES,Kenya,card,failed,2025-12-16
+TXN_1084076,Peter Uche,Blessing Balogun,"2,445,881.00",USD,United States,bank transfer,success,2025-11-30
+TXN_1574479,Peace Ibrahim,Sarah Balogun,"93,908,567.00",KES,Kenya,bank transfer,failed,2024-11-06
+TXN_6146977,Gabriel Ekwueme,Peter Ojo,"22,723,498.00",ZAR,South Africa,card,pending,2026-04-25
+TXN_8606828,Ruth Akinwale,Juliet Ekwueme,"85,952,431.00",NGN,Nigeria,mobile money,success,2024-11-29
+TXN_2930226,Agnes Oyekan,Comfort Balogun,"74,302,988.00",USD,United States,card,pending,2026-05-21
+TXN_9089053,Stephen Chukwu,Cornelius Nnamani,"28,957,300.00",NGN,Nigeria,mobile money,failed,2025-08-24
+TXN_8461206,Joshua Okafor,Gabriel Nnamani,"33,018,270.00",NGN,Nigeria,mobile money,pending,2026-04-12
+TXN_4721225,Victoria Adetokunbo,Philip Chukwu,"33,824,351.00",USD,United States,bank transfer,failed,2025-02-19
+TXN_4597238,Joshua Ojo,Faith Okafor,"6,772,470.00",USD,United States,mobile money,success,2026-08-12
+TXN_7276850,Andrew Akinwale,John Abiola,"82,142,734.00",ZAR,South Africa,mobile money,pending,2025-07-13
+TXN_5970012,Daniel Chukwu,Juliet Abiola,"17,416,954.00",USD,United States,mobile money,pending,2024-10-21
+TXN_5890215,James Nnamani,Victoria Eze,"22,513,547.00",GHS,Ghana,mobile money,pending,2025-12-18
+TXN_9253721,John Akinwale,Philip Balogun,"71,263,103.00",NGN,Nigeria,card,failed,2024-10-06
+TXN_8090590,Angela Oshodi,Charity Adeyemi,"75,363,439.00",KES,Kenya,card,success,2026-02-25
+TXN_6112458,Michael Eze,Simon Chukwu,"65,626,726.00",KES,Kenya,bank transfer,failed,2025-01-12
+TXN_6161074,Cornelius Okonkwo,Emmanuel Obi,"7,683,431.00",NGN,Nigeria,card,failed,2025-11-20
+TXN_1205643,Mary Obasanjo,Agnes Uche,"41,596,308.00",KES,Kenya,bank transfer,success,2024-12-06
+TXN_3295572,Benjamin Balogun,Angela Adeyemi,"61,908,645.00",NGN,Nigeria,card,pending,2025-08-08
+TXN_1350443,Agnes Adeyemi,Daniel Okonkwo,"65,186,858.00",GHS,Ghana,mobile money,failed,2025-07-09
+TXN_1094143,Comfort Chukwu,Blessing Obasanjo,"62,410,894.00",GHS,Ghana,mobile money,success,2025-06-18
+TXN_9504122,Andrew Oyekan,Joy Oshodi,"83,902,896.00",USD,United States,mobile money,pending,2024-11-10
+TXN_8560527,Ruth Ojo,Benjamin Ojo,"83,172,194.00",USD,United States,card,pending,2025-04-05
+TXN_3661547,Samuel Balogun,Stephen Ibrahim,"99,115,434.00",NGN,Nigeria,bank transfer,failed,2024-12-04
+TXN_1998386,Elizabeth Okonkwo,Andrew Olawale,"47,218,301.00",NGN,Nigeria,mobile money,pending,2026-02-12
+TXN_4433968,Peace Obi,Simon Obasanjo,"41,961,463.00",USD,United States,mobile money,success,2025-11-16
+TXN_6863812,Joseph Ojo,John Eze,"51,459,039.00",NGN,Nigeria,card,success,2025-04-09
+TXN_4447818,Gloria Adeyemi,Mark Chukwu,"69,646,071.00",NGN,Nigeria,mobile money,failed,2024-09-08
+TXN_9838888,Mary Balogun,Patience Okafor,"95,117,337.00",ZAR,South Africa,mobile money,failed,2025-08-15
+TXN_7094139,Mark Ekwueme,John Balogun,"20,315,827.00",NGN,Nigeria,card,success,2026-02-09
+TXN_6255740,Charity Adeyemi,Ruth Olawale,"65,082,351.00",NGN,Nigeria,mobile money,success,2025-07-23
+TXN_8288439,Faith Obi,Blessing Ibrahim,"53,775,375.00",ZAR,South Africa,mobile money,success,2024-10-15
+TXN_7690823,Juliet Ogunleye,Mark Abiola,"73,478,494.00",USD,United States,bank transfer,pending,2025-10-11
+TXN_6992328,Gabriel Ekwueme,Samuel Abiola,"33,672,133.00",GHS,Ghana,mobile money,failed,2025-04-26
+TXN_8690901,Paul Ojo,Peter Akinwale,"69,006,674.00",USD,United States,card,pending,2025-06-21
+TXN_1111461,Peter Okonkwo,Comfort Eze,"89,382,734.00",NGN,Nigeria,mobile money,success,2025-07-26
+TXN_6687230,Faith Ogunleye,Paul Adetokunbo,"30,156,324.00",KES,Kenya,bank transfer,pending,2025-03-11
+TXN_5865893,Agnes Adeyemi,Emmanuel Eze,"32,122,456.00",GHS,Ghana,bank transfer,success,2024-09-15
+TXN_8381009,Elizabeth Okonkwo,Peter Eze,"13,298,621.00",USD,United States,bank transfer,pending,2025-09-07
+TXN_5852277,Peace Ogunleye,Simon Adeyemi,"90,727,307.00",USD,United States,bank transfer,success,2024-10-18
+TXN_5311163,Daniel Oyekan,Grace Obasanjo,"85,510,023.00",KES,Kenya,bank transfer,failed,2025-05-20
+TXN_3929515,Angela Obasanjo,Peace Oyekan,"57,408,281.00",USD,United States,bank transfer,success,2025-09-18
+TXN_4228472,David Ojo,Joseph Ibrahim,"40,622,173.00",KES,Kenya,card,failed,2025-08-07
+TXN_1806966,Simon Oyekan,Benjamin Abiola,"75,403,196.00",KES,Kenya,card,pending,2025-04-23
+TXN_8135552,Patience Oshodi,Juliet Akinwale,"51,375,327.00",KES,Kenya,bank transfer,failed,2025-12-15
+TXN_2401294,Comfort Uche,Grace Balogun,"44,135,587.00",NGN,Nigeria,bank transfer,success,2025-06-24
+TXN_7678714,Andrew Uche,Peace Uche,"8,907,531.00",NGN,Nigeria,mobile money,failed,2026-06-02
+TXN_1926144,Grace Balogun,Peace Oshodi,"42,421,457.00",NGN,Nigeria,card,failed,2025-05-01
+TXN_7990358,Mark Oyekan,Peace Nnamani,"60,650,813.00",ZAR,South Africa,bank transfer,failed,2026-06-20
+TXN_1257109,Peace Abiola,Sarah Obasanjo,"47,996,933.00",GHS,Ghana,bank transfer,pending,2025-06-21
+TXN_6023118,Philip Ibrahim,Joseph Obasanjo,"23,239,429.00",NGN,Nigeria,mobile money,success,2025-04-25
+TXN_5723541,Elizabeth Adeyemi,Juliet Chukwu,"51,490,241.00",GHS,Ghana,mobile money,pending,2025-02-25
+TXN_3294916,Patience Adeyemi,Charity Chukwu,"92,757,084.00",GHS,Ghana,card,failed,2025-07-24
+TXN_8172748,Agnes Balogun,Mary Ojo,"77,693,071.00",NGN,Nigeria,card,success,2026-06-02
+TXN_3183291,Mark Ojo,Hope Okafor,"57,234,246.00",NGN,Nigeria,bank transfer,failed,2026-06-04
+TXN_5308050,Patience Obi,Cornelius Adeyemi,"34,667,726.00",ZAR,South Africa,card,success,2026-02-02
+TXN_9731488,Gabriel Oshodi,Blessing Uche,"17,902,580.00",GHS,Ghana,mobile money,pending,2025-12-03
+TXN_6171666,Charity Chukwu,Cornelius Ibrahim,"49,528,344.00",KES,Kenya,card,success,2025-08-01
+TXN_3709358,Comfort Nnamani,Agnes Olawale,"26,044,015.00",ZAR,South Africa,card,failed,2025-04-15
+TXN_9812571,Grace Olawale,Joseph Uche,"8,331,093.00",USD,United States,card,failed,2025-01-03
+TXN_4260494,Mary Ekwueme,Joy Ekwueme,"60,722,855.00",USD,United States,bank transfer,pending,2025-05-03
+TXN_5060425,Samuel Ekwueme,Elizabeth Balogun,"8,327,895.00",ZAR,South Africa,mobile money,failed,2025-08-15
+TXN_4708986,Sarah Adetokunbo,Esther Akinwale,"48,726,935.00",ZAR,South Africa,bank transfer,failed,2025-07-29
+TXN_6381095,James Oyekan,Gabriel Oshodi,"72,854,189.00",ZAR,South Africa,mobile money,pending,2024-11-18
+TXN_9558623,Faith Akinwale,Esther Abiola,"97,236,288.00",KES,Kenya,mobile money,success,2024-12-21
+TXN_2742224,Angela Balogun,Stephen Ojo,"93,872,422.00",USD,United States,bank transfer,pending,2025-03-21
+TXN_4781389,Joseph Balogun,Blessing Oshodi,"49,150,869.00",ZAR,South Africa,card,pending,2026-06-22
+TXN_5527337,Charity Ibrahim,James Adeyemi,"9,721,183.00",KES,Kenya,mobile money,success,2024-09-15
+TXN_3883968,Esther Obasanjo,Mary Okafor,"35,104,515.00",ZAR,South Africa,bank transfer,failed,2026-05-13
+TXN_5185688,John Obasanjo,Agnes Ekwueme,"65,863,653.00",ZAR,South Africa,card,failed,2024-11-05
+TXN_8110414,James Ojo,Joy Chukwu,"74,203,710.00",ZAR,South Africa,card,success,2025-12-27
+TXN_3057345,Samuel Obasanjo,Agnes Ogunleye,"82,806,562.00",USD,United States,bank transfer,success,2025-01-02
+TXN_1186630,Angela Ojo,Comfort Obi,"64,396,252.00",ZAR,South Africa,card,failed,2025-12-11
+TXN_9910692,Benjamin Okonkwo,Joseph Balogun,"65,505,686.00",KES,Kenya,mobile money,success,2025-09-09
+TXN_1807729,Gloria Obi,Samuel Nnamani,"94,096,948.00",KES,Kenya,card,failed,2025-01-13
+TXN_5099044,Joy Ojo,Comfort Chukwu,"36,035,702.00",ZAR,South Africa,card,pending,2024-12-21
+TXN_2965446,Benjamin Olawale,Philip Nnamani,"45,406,497.00",ZAR,South Africa,card,pending,2025-08-23
+TXN_6062160,Samuel Eze,Philip Obasanjo,"87,406,322.00",NGN,Nigeria,mobile money,failed,2025-05-04
+TXN_5198193,Gabriel Ogunleye,Esther Akinwale,"69,194,987.00",NGN,Nigeria,card,pending,2026-03-18
+TXN_8959510,Agnes Eze,Joshua Akinwale,"83,760,530.00",ZAR,South Africa,card,pending,2026-02-05
+TXN_4987662,Hope Oshodi,Joy Adetokunbo,"5,897,451.00",ZAR,South Africa,card,failed,2026-04-07
+TXN_8489980,Deborah Uche,James Okafor,"38,549,244.00",NGN,Nigeria,card,failed,2026-07-23
+TXN_9425879,Peter Chukwu,Hope Akinwale,"18,997,567.00",GHS,Ghana,bank transfer,pending,2026-03-03
+TXN_7140896,Juliet Okafor,Charity Uche,"41,211,783.00",USD,United States,bank transfer,failed,2025-01-26
+TXN_6050723,Nathaniel Eze,Charity Obi,"91,798,907.00",GHS,Ghana,card,failed,2025-06-17
+TXN_3895376,Joshua Ojo,Peace Chukwu,"27,946,470.00",ZAR,South Africa,bank transfer,success,2024-10-21
+TXN_4480556,John Okonkwo,Patience Abiola,"97,989,096.00",NGN,Nigeria,bank transfer,success,2026-04-24
+TXN_6623040,Joy Oyekan,Philip Ojo,"21,455,238.00",ZAR,South Africa,mobile money,pending,2025-02-06
+TXN_8437883,Gabriel Ibrahim,Stephen Oshodi,"85,466,653.00",ZAR,South Africa,card,failed,2026-07-16
+TXN_1443900,Esther Obi,Philip Akinwale,"45,633,779.00",ZAR,South Africa,bank transfer,failed,2025-01-08
+TXN_2966881,Mary Okonkwo,Andrew Oyekan,"72,672,219.00",GHS,Ghana,card,success,2026-06-15
+TXN_3057925,Samuel Chukwu,Grace Obi,"87,849,402.00",GHS,Ghana,bank transfer,success,2025-09-30
+TXN_8904279,David Oyekan,Peace Obasanjo,"82,991,510.00",NGN,Nigeria,mobile money,pending,2026-03-13
+TXN_6681304,Mark Ibrahim,Faith Chukwu,"82,033,579.00",GHS,Ghana,bank transfer,success,2026-04-18
+TXN_7001352,Comfort Okafor,James Ibrahim,"74,125,219.00",KES,Kenya,mobile money,pending,2026-06-16
+TXN_1322383,Samuel Ekwueme,Samuel Okonkwo,"7,089,168.00",KES,Kenya,card,pending,2025-10-20
+TXN_4702156,Charity Akinwale,Emmanuel Uche,"38,037,946.00",NGN,Nigeria,card,pending,2025-06-11
+TXN_5435002,Deborah Akinwale,Juliet Chukwu,"78,352,441.00",USD,United States,bank transfer,success,2025-04-29
+TXN_5037231,Juliet Uche,Mary Uche,"72,760,014.00",ZAR,South Africa,mobile money,success,2025-03-30
+TXN_4281813,Simon Balogun,Benjamin Ojo,"20,865,892.00",GHS,Ghana,mobile money,pending,2025-07-31
+TXN_7435854,Faith Adetokunbo,Daniel Balogun,"27,718,410.00",ZAR,South Africa,card,pending,2025-07-21
+TXN_6174460,Grace Balogun,Deborah Adeyemi,"12,657,755.00",USD,United States,card,pending,2026-05-12
+TXN_5752568,Joseph Oshodi,Andrew Chukwu,"15,549,984.00",ZAR,South Africa,mobile money,pending,2026-02-21
+TXN_4183118,Blessing Adetokunbo,Gabriel Ekwueme,"37,482,078.00",GHS,Ghana,bank transfer,success,2025-06-16
+TXN_4994734,Daniel Chukwu,Joy Ekwueme,"68,781,827.00",GHS,Ghana,bank transfer,success,2026-05-29
+TXN_3150835,Daniel Obasanjo,Hope Oyekan,"2,001,003.00",USD,United States,bank transfer,pending,2025-04-14
+TXN_6254894,Mark Adetokunbo,Faith Chukwu,"7,235,329.00",USD,United States,mobile money,success,2025-10-09
+TXN_2429245,Deborah Okonkwo,Philip Oshodi,"96,416,648.00",USD,United States,mobile money,failed,2025-08-28
+TXN_2515145,Comfort Nnamani,Daniel Uche,"26,956,926.00",GHS,Ghana,card,pending,2025-03-30
+TXN_2090825,Mark Olawale,Gloria Adeyemi,"21,980,154.00",ZAR,South Africa,mobile money,pending,2025-10-14
+TXN_7634072,Peter Ibrahim,Nathaniel Balogun,"35,779,038.00",KES,Kenya,mobile money,failed,2026-01-29
+TXN_2578124,Michael Obi,Elizabeth Abiola,"94,783,314.00",GHS,Ghana,card,pending,2025-11-13
+TXN_5421059,Comfort Ojo,Emmanuel Ogunleye,"71,630,837.00",ZAR,South Africa,bank transfer,success,2025-09-03
+TXN_4530306,Stephen Adetokunbo,Peace Oshodi,"24,995,265.00",KES,Kenya,card,success,2025-04-01
+TXN_1247404,Deborah Adeyemi,James Chukwu,"94,886,931.00",NGN,Nigeria,bank transfer,success,2025-02-14
+TXN_1354079,Grace Ekwueme,Gabriel Abiola,"41,427,240.00",USD,United States,bank transfer,failed,2025-09-30
+TXN_4619582,Agnes Akinwale,Paul Abiola,"21,163,332.00",GHS,Ghana,mobile money,failed,2025-06-22
+TXN_6888989,Esther Uche,Faith Oshodi,"57,343,440.00",KES,Kenya,bank transfer,failed,2024-11-28
+TXN_4177676,Simon Uche,Joshua Okafor,"95,212,166.00",KES,Kenya,mobile money,success,2026-05-26
+TXN_3017058,Victoria Chukwu,Joy Oyekan,"8,309,477.00",USD,United States,bank transfer,pending,2025-08-12
+TXN_5233006,Comfort Ekwueme,Patience Ibrahim,"7,917,574.00",ZAR,South Africa,bank transfer,failed,2025-12-30
+TXN_8849965,Emmanuel Ibrahim,Juliet Balogun,"70,209,655.00",GHS,Ghana,card,failed,2026-03-28
+TXN_7592317,Cornelius Adeyemi,Mark Ekwueme,"52,296,558.00",NGN,Nigeria,card,pending,2026-04-02
+TXN_8091475,Emmanuel Uche,Agnes Adetokunbo,"95,121,677.00",KES,Kenya,bank transfer,pending,2025-10-09
+TXN_3146147,Emmanuel Olawale,Mary Chukwu,"11,122,450.00",ZAR,South Africa,mobile money,success,2025-09-25
+TXN_1780148,Joshua Adeyemi,Mark Nnamani,"96,854,746.00",USD,United States,mobile money,failed,2026-07-30
+TXN_2632910,David Obasanjo,Peace Adetokunbo,"40,320,974.00",NGN,Nigeria,card,success,2026-04-02
+TXN_6398551,Gloria Ekwueme,Ruth Obasanjo,"45,468,577.00",NGN,Nigeria,mobile money,pending,2025-06-29
+TXN_3790463,Nathaniel Obasanjo,Ruth Balogun,"52,837,695.00",GHS,Ghana,card,success,2026-05-26
+TXN_1225599,Charity Oyekan,Philip Balogun,"28,297,211.00",NGN,Nigeria,card,pending,2026-07-03
+TXN_6355266,Patience Adeyemi,Esther Akinwale,"54,075,374.00",KES,Kenya,bank transfer,success,2025-02-27
+TXN_1059910,Philip Balogun,Gloria Adeyemi,"50,843,672.00",KES,Kenya,mobile money,success,2025-07-10
+TXN_1627966,Michael Balogun,Daniel Obi,"22,510,254.00",NGN,Nigeria,mobile money,failed,2026-03-28
+TXN_2229178,Joshua Obi,Daniel Akinwale,"93,274,840.00",GHS,Ghana,mobile money,success,2026-04-27
+TXN_1956086,Peter Uche,Joseph Olawale,"57,366,730.00",KES,Kenya,mobile money,pending,2024-11-28
+TXN_5318129,Hope Uche,Andrew Ojo,"35,161,412.00",USD,United States,card,failed,2026-05-08
+TXN_3950694,Blessing Eze,Deborah Adetokunbo,"41,811,794.00",GHS,Ghana,card,failed,2025-01-25
+TXN_2551066,Gloria Ibrahim,Philip Okonkwo,"62,035,148.00",USD,United States,mobile money,failed,2025-12-02
+TXN_2240335,Joshua Obasanjo,Ruth Uche,"79,647,976.00",USD,United States,mobile money,success,2025-06-11
+TXN_3671430,Nathaniel Balogun,Cornelius Ogunleye,"18,661,827.00",GHS,Ghana,bank transfer,failed,2025-11-09
+TXN_7315741,Michael Abiola,James Ojo,"16,869,861.00",NGN,Nigeria,card,success,2025-06-21
+TXN_2302833,Philip Akinwale,Gabriel Oyekan,"5,830,188.00",KES,Kenya,bank transfer,pending,2026-07-11
+TXN_5114167,Benjamin Abiola,James Akinwale,"36,518,568.00",USD,United States,mobile money,pending,2026-08-27
+TXN_9808518,Cornelius Ibrahim,Gabriel Akinwale,"40,625,805.00",NGN,Nigeria,bank transfer,failed,2024-11-06
+TXN_8714775,Peace Obi,Comfort Olawale,"18,952,390.00",USD,United States,card,pending,2025-02-03
+TXN_9013449,Elizabeth Obi,Angela Uche,"4,690,335.00",KES,Kenya,bank transfer,success,2025-03-13
+TXN_6146251,Patience Uche,James Oyekan,"13,817,293.00",KES,Kenya,bank transfer,pending,2025-04-23
+TXN_4515947,Hope Ojo,Patience Oyekan,"97,447,263.00",NGN,Nigeria,mobile money,pending,2026-01-18
+TXN_6032936,Blessing Oyekan,Blessing Eze,"77,989,418.00",GHS,Ghana,bank transfer,pending,2026-05-14
+TXN_8336753,Stephen Okonkwo,Hope Nnamani,"16,473,151.00",ZAR,South Africa,card,success,2025-09-14
+TXN_1764217,Victoria Uche,Philip Obi,"60,905,430.00",KES,Kenya,bank transfer,success,2024-10-02
+TXN_4702176,David Eze,Sarah Nnamani,"56,963,990.00",KES,Kenya,bank transfer,failed,2024-11-01
+TXN_5602203,Mary Abiola,Philip Ojo,"52,273,139.00",USD,United States,card,success,2025-12-31
+TXN_7884367,Victoria Okonkwo,Emmanuel Olawale,"88,451,977.00",KES,Kenya,mobile money,success,2026-06-22
+TXN_2320875,Sarah Adeyemi,Peace Obasanjo,"25,020,366.00",KES,Kenya,bank transfer,failed,2026-08-23
+TXN_4039940,Grace Chukwu,Stephen Olawale,"26,603,706.00",KES,Kenya,mobile money,success,2024-10-25
+TXN_9260242,Gabriel Obasanjo,Stephen Ibrahim,"73,590,770.00",USD,United States,mobile money,pending,2025-11-29
+TXN_8579217,Emmanuel Ekwueme,Peace Akinwale,"51,338,606.00",GHS,Ghana,mobile money,success,2026-02-04
+TXN_6383697,Peace Olawale,Michael Obasanjo,"94,644,641.00",ZAR,South Africa,bank transfer,success,2026-01-31
+TXN_6901100,Victoria Balogun,Agnes Eze,"4,642,569.00",GHS,Ghana,mobile money,success,2025-03-01
+TXN_7435926,Emmanuel Obi,Deborah Obi,"24,301,541.00",KES,Kenya,card,failed,2025-10-08
+TXN_3544634,Peter Abiola,Mark Okafor,"85,402,299.00",USD,United States,bank transfer,success,2026-03-29
+TXN_6840638,Sarah Adetokunbo,Angela Obi,"63,980,320.00",GHS,Ghana,bank transfer,pending,2026-08-05
+TXN_4963126,Mary Ekwueme,Ruth Balogun,"65,923,372.00",NGN,Nigeria,card,pending,2025-01-05
+TXN_8342699,Patience Akinwale,Daniel Ogunleye,"41,775,823.00",GHS,Ghana,bank transfer,pending,2025-11-06
+TXN_1169601,David Balogun,Daniel Balogun,"17,115,251.00",USD,United States,mobile money,success,2024-10-05
+TXN_9871192,Blessing Eze,Joy Ibrahim,"51,489,736.00",GHS,Ghana,card,success,2025-02-03
+TXN_7585520,Emmanuel Ibrahim,Grace Obasanjo,"64,732,027.00",USD,United States,card,pending,2025-11-14
+TXN_1633727,Ruth Oyekan,James Obi,"8,492,182.00",KES,Kenya,bank transfer,success,2026-06-18
+TXN_2082824,James Obi,Deborah Adeyemi,"43,141,827.00",USD,United States,bank transfer,success,2025-03-22
+TXN_8095162,Deborah Eze,Esther Akinwale,"52,968,601.00",GHS,Ghana,mobile money,failed,2025-09-30
+TXN_9237316,Emmanuel Obasanjo,Simon Adetokunbo,"65,764,559.00",ZAR,South Africa,bank transfer,pending,2026-04-24
+TXN_3338287,Angela Eze,Peter Olawale,"73,686,461.00",NGN,Nigeria,mobile money,pending,2026-07-18
+TXN_3427010,Elizabeth Chukwu,Faith Nnamani,"93,833,495.00",NGN,Nigeria,card,pending,2026-08-15
+TXN_4382818,Grace Balogun,Mark Ogunleye,"22,810,847.00",USD,United States,card,success,2026-02-28
+TXN_7127068,Mark Uche,Mark Oyekan,"356,116.00",ZAR,South Africa,bank transfer,pending,2026-05-11
+TXN_4263817,Hope Adeyemi,Philip Ekwueme,"37,912,280.00",USD,United States,card,pending,2024-12-14
+TXN_1514833,Joshua Ojo,Peace Abiola,"67,593,118.00",GHS,Ghana,mobile money,pending,2025-06-09
+TXN_3952885,Agnes Ibrahim,Ruth Eze,"37,354,682.00",ZAR,South Africa,card,pending,2026-05-31
+TXN_8616648,Nathaniel Obasanjo,Juliet Ibrahim,"97,589,636.00",GHS,Ghana,mobile money,pending,2025-08-01
+TXN_1793903,Gloria Balogun,Joy Ibrahim,"90,918,361.00",NGN,Nigeria,mobile money,success,2026-02-23
+TXN_6229095,Andrew Oshodi,Mary Obi,"12,790,732.00",GHS,Ghana,bank transfer,pending,2026-05-25
+TXN_5732889,Joshua Ogunleye,Juliet Balogun,"35,371,434.00",KES,Kenya,mobile money,failed,2024-10-28
+TXN_2709772,Deborah Adetokunbo,Ruth Chukwu,"18,393,199.00",USD,United States,card,success,2026-07-15
+TXN_6417154,Mary Okafor,James Obasanjo,"38,265,195.00",ZAR,South Africa,card,failed,2025-04-29
+TXN_3761474,Patience Akinwale,Blessing Chukwu,"38,735,895.00",USD,United States,mobile money,success,2025-03-06
+TXN_2599688,Juliet Okafor,Mary Obi,"2,655,712.00",ZAR,South Africa,bank transfer,failed,2026-03-19
+TXN_8229995,Nathaniel Ekwueme,Deborah Obasanjo,"65,145,618.00",KES,Kenya,card,pending,2024-11-08
+TXN_6875432,Angela Adetokunbo,Grace Balogun,"7,304,747.00",USD,United States,bank transfer,success,2025-09-05
+TXN_4193893,Gloria Ekwueme,Cornelius Ojo,"29,022,163.00",KES,Kenya,bank transfer,pending,2026-05-07
+TXN_3940775,Angela Ojo,Joy Olawale,"63,581,317.00",GHS,Ghana,bank transfer,pending,2026-04-12
+TXN_4980798,Mary Chukwu,Victoria Ekwueme,"98,187,621.00",NGN,Nigeria,card,success,2025-02-17
+TXN_6581644,Paul Obasanjo,Paul Nnamani,"55,624,649.00",NGN,Nigeria,card,pending,2026-02-04
+TXN_4580894,Esther Balogun,Angela Abiola,"83,518,749.00",KES,Kenya,card,pending,2026-03-26
+TXN_5580447,Stephen Ogunleye,Grace Okonkwo,"94,495,407.00",KES,Kenya,mobile money,pending,2026-04-10
+TXN_2675286,Nathaniel Obasanjo,Esther Okafor,"83,500,097.00",KES,Kenya,card,pending,2026-02-15
+TXN_7379298,Cornelius Ekwueme,Joseph Ogunleye,"63,919,236.00",NGN,Nigeria,mobile money,failed,2025-07-24
+TXN_5955388,Sarah Olawale,Victoria Adetokunbo,"25,200,251.00",USD,United States,card,pending,2025-02-13
+TXN_4079466,Simon Abiola,Grace Oshodi,"60,384,911.00",ZAR,South Africa,mobile money,failed,2026-07-14
+TXN_1051744,Elizabeth Ojo,Joy Balogun,"65,686,333.00",USD,United States,card,failed,2024-09-02
+TXN_1079288,David Ojo,Peace Balogun,"98,081,641.00",NGN,Nigeria,card,failed,2025-04-06
+TXN_6820559,Hope Oshodi,Blessing Oshodi,"21,697,933.00",KES,Kenya,bank transfer,pending,2024-11-10
+TXN_7436250,Comfort Abiola,Elizabeth Uche,"63,100,906.00",GHS,Ghana,bank transfer,failed,2024-08-29
+TXN_2301610,Charity Oshodi,Mark Eze,"47,913,700.00",ZAR,South Africa,card,pending,2026-01-26
+TXN_8162191,Juliet Balogun,Hope Akinwale,"26,844,526.00",GHS,Ghana,bank transfer,failed,2026-02-09
+TXN_3042046,David Okafor,Ruth Akinwale,"53,908,794.00",ZAR,South Africa,bank transfer,pending,2025-07-17
+TXN_3804806,Juliet Chukwu,Blessing Obi,"23,838,034.00",USD,United States,mobile money,success,2025-10-31
+TXN_8769555,Gabriel Obasanjo,James Nnamani,"79,829,311.00",USD,United States,bank transfer,success,2025-01-23
+TXN_4649735,Patience Obi,Deborah Nnamani,"7,033,812.00",NGN,Nigeria,card,success,2025-05-16
+TXN_9237594,Daniel Ogunleye,Philip Balogun,"24,650,766.00",NGN,Nigeria,bank transfer,success,2025-05-05
+TXN_5685092,Cornelius Ojo,Paul Chukwu,"45,216,247.00",NGN,Nigeria,bank transfer,success,2025-07-22
+TXN_8272369,Sarah Ogunleye,Joshua Oshodi,"65,601,639.00",NGN,Nigeria,bank transfer,pending,2026-07-15
+TXN_5381389,Peace Obi,Gabriel Uche,"30,625,869.00",NGN,Nigeria,mobile money,success,2024-11-01
+TXN_9604958,Paul Ogunleye,Peace Olawale,"68,056,790.00",ZAR,South Africa,mobile money,failed,2025-08-25
+TXN_5691442,Comfort Abiola,Hope Ibrahim,"26,498,118.00",ZAR,South Africa,bank transfer,success,2026-02-01
+TXN_1607090,Joy Oshodi,Esther Adeyemi,"92,914,472.00",KES,Kenya,card,failed,2026-02-16
+TXN_8876312,Mary Obasanjo,Simon Ojo,"41,901,924.00",ZAR,South Africa,bank transfer,success,2025-01-27
+TXN_2850473,Mark Ogunleye,Gabriel Ekwueme,"35,535,386.00",USD,United States,card,failed,2025-08-01
+TXN_7857740,Samuel Ekwueme,Peter Ibrahim,"44,512,195.00",ZAR,South Africa,card,success,2024-10-21
+TXN_2232581,Patience Okafor,Patience Abiola,"56,457,930.00",ZAR,South Africa,card,success,2025-03-12
+TXN_4188225,Esther Nnamani,Elizabeth Olawale,"40,846,991.00",KES,Kenya,bank transfer,failed,2025-03-24
+TXN_1082538,Blessing Adetokunbo,Esther Oshodi,"99,585,394.00",NGN,Nigeria,card,failed,2026-04-07
+TXN_1965177,John Obasanjo,Benjamin Ogunleye,"66,471,780.00",ZAR,South Africa,mobile money,success,2025-03-22
+TXN_1381062,Angela Ogunleye,Ruth Adetokunbo,"99,695,672.00",KES,Kenya,mobile money,success,2025-05-27
+TXN_9177814,Daniel Olawale,Daniel Ogunleye,"15,997,097.00",ZAR,South Africa,mobile money,pending,2025-02-19
+TXN_1184763,Esther Okafor,Sarah Ojo,"15,737,920.00",USD,United States,bank transfer,success,2026-01-27
+TXN_2949310,Sarah Abiola,David Abiola,"98,106,979.00",USD,United States,mobile money,failed,2025-09-24
+TXN_2122650,Philip Oyekan,Mary Adetokunbo,"89,470,354.00",USD,United States,card,pending,2026-08-20
+TXN_5575847,Comfort Balogun,Charity Ibrahim,"60,794,919.00",ZAR,South Africa,bank transfer,pending,2024-11-18
+TXN_7206960,Mary Ibrahim,Juliet Uche,"66,692,776.00",KES,Kenya,card,failed,2025-04-12
+TXN_4636036,Agnes Ekwueme,Hope Ekwueme,"57,796,570.00",ZAR,South Africa,mobile money,success,2024-11-02
+TXN_7259771,Joseph Ibrahim,Mary Okafor,"33,650,502.00",ZAR,South Africa,mobile money,failed,2026-03-02
+TXN_7584725,Mark Obi,Emmanuel Olawale,"61,287,846.00",NGN,Nigeria,card,pending,2024-09-11
+TXN_3347410,Andrew Oyekan,Andrew Ojo,"77,203,049.00",NGN,Nigeria,mobile money,success,2026-05-19
+TXN_7783601,Gloria Oshodi,Joshua Oshodi,"44,747,624.00",GHS,Ghana,mobile money,failed,2025-02-06
+TXN_8393516,Patience Okafor,Emmanuel Okonkwo,"5,736,873.00",GHS,Ghana,bank transfer,failed,2024-10-01
+TXN_7421255,Victoria Eze,Peter Oshodi,"9,285,530.00",KES,Kenya,bank transfer,pending,2025-07-06
+TXN_4424120,Philip Ekwueme,Blessing Chukwu,"15,996,800.00",USD,United States,bank transfer,failed,2025-05-24
+TXN_4864761,Stephen Okonkwo,Hope Nnamani,"71,570,472.00",GHS,Ghana,mobile money,failed,2026-05-25
+TXN_6498820,Daniel Ogunleye,Victoria Eze,"51,368,604.00",KES,Kenya,bank transfer,pending,2025-09-06
+TXN_1490348,Gabriel Ogunleye,Victoria Obasanjo,"40,352,912.00",GHS,Ghana,mobile money,success,2025-05-21
+TXN_8304710,Stephen Ibrahim,Faith Ekwueme,"24,906,006.00",NGN,Nigeria,card,failed,2025-03-04
+TXN_1218393,Mary Abiola,Joseph Ekwueme,"94,656,055.00",USD,United States,bank transfer,pending,2024-10-27
+TXN_4367978,Esther Abiola,Samuel Obasanjo,"17,369,484.00",ZAR,South Africa,bank transfer,success,2025-04-25
+TXN_2900780,Gloria Obasanjo,Stephen Nnamani,"69,087,327.00",KES,Kenya,mobile money,success,2025-01-15
+TXN_1721864,Daniel Obi,Cornelius Okonkwo,"5,160,738.00",GHS,Ghana,bank transfer,pending,2026-06-26
+TXN_1059214,Philip Oshodi,Benjamin Nnamani,"44,145,167.00",USD,United States,card,failed,2026-07-01
+TXN_2473076,Michael Oshodi,Emmanuel Okonkwo,"7,444,891.00",KES,Kenya,bank transfer,pending,2026-07-11
+TXN_8615175,Patience Ojo,Mary Obasanjo,"20,735,309.00",NGN,Nigeria,bank transfer,failed,2026-01-24
+TXN_9530000,Hope Akinwale,Andrew Okafor,"74,208,560.00",ZAR,South Africa,card,pending,2025-06-29
+TXN_2195046,Emmanuel Chukwu,Paul Ogunleye,"71,135,533.00",KES,Kenya,mobile money,pending,2024-12-07
+TXN_7912245,Grace Ojo,Philip Ekwueme,"62,343,619.00",GHS,Ghana,mobile money,success,2025-06-12
+TXN_5024565,James Nnamani,Paul Obi,"92,488,142.00",ZAR,South Africa,card,pending,2026-04-14
+TXN_5804621,Stephen Balogun,Gloria Nnamani,"80,816,520.00",GHS,Ghana,card,failed,2026-05-20
+TXN_9309604,Joy Okafor,David Ojo,"42,088,397.00",ZAR,South Africa,card,success,2026-02-13
+TXN_6760644,Grace Obi,Faith Okafor,"33,257,770.00",KES,Kenya,card,failed,2026-07-19
+TXN_3573036,Grace Nnamani,Andrew Nnamani,"52,566,805.00",NGN,Nigeria,mobile money,failed,2026-03-13
+TXN_7695677,Gloria Akinwale,Esther Uche,"62,170,137.00",KES,Kenya,mobile money,pending,2025-04-19
+TXN_3304378,Ruth Okonkwo,Joy Okafor,"44,796,540.00",NGN,Nigeria,bank transfer,success,2025-01-04
+TXN_6860686,Gabriel Obi,Gabriel Eze,"90,485,607.00",GHS,Ghana,bank transfer,failed,2025-10-28
+TXN_7648160,Mark Adeyemi,Gloria Obasanjo,"5,179,104.00",GHS,Ghana,bank transfer,pending,2025-12-14
+TXN_9041699,Blessing Oyekan,Andrew Okonkwo,"32,275,357.00",KES,Kenya,mobile money,success,2025-06-06
+TXN_7900927,Emmanuel Obasanjo,Mark Obasanjo,"60,079,593.00",ZAR,South Africa,card,success,2026-02-19
+TXN_8269339,Gloria Okafor,Victoria Chukwu,"19,262,127.00",NGN,Nigeria,bank transfer,failed,2024-10-26
+TXN_1114460,Angela Eze,Victoria Nnamani,"37,459,078.00",KES,Kenya,bank transfer,failed,2026-07-13
+TXN_5518510,Faith Ibrahim,Joy Adeyemi,"69,886,545.00",ZAR,South Africa,mobile money,success,2025-10-11
+TXN_7148225,Patience Eze,Michael Uche,"54,002,438.00",NGN,Nigeria,mobile money,failed,2026-08-11
+TXN_7978668,Agnes Okafor,Joy Eze,"98,780,904.00",ZAR,South Africa,mobile money,success,2025-07-08
+TXN_5275179,Blessing Eze,Charity Abiola,"82,710,921.00",USD,United States,card,success,2026-02-28
+TXN_9270383,Sarah Eze,Mary Ibrahim,"89,840,143.00",NGN,Nigeria,mobile money,failed,2025-12-10
+TXN_3767465,Peace Uche,Elizabeth Obasanjo,"94,526,990.00",NGN,Nigeria,card,success,2025-09-15
+TXN_8317897,Nathaniel Okonkwo,Andrew Akinwale,"45,471,005.00",USD,United States,bank transfer,pending,2026-07-25
+TXN_5382369,Victoria Okafor,Blessing Adeyemi,"77,521,518.00",NGN,Nigeria,card,pending,2025-05-30
+TXN_6123602,Gabriel Oyekan,Elizabeth Balogun,"32,619,325.00",NGN,Nigeria,bank transfer,pending,2025-09-11
+TXN_6119279,Samuel Abiola,Emmanuel Nnamani,"3,345,169.00",GHS,Ghana,mobile money,success,2024-12-25
+TXN_7453122,Esther Oyekan,Mark Uche,"79,176,346.00",KES,Kenya,card,failed,2025-12-11
+TXN_9412824,Peter Adeyemi,John Olawale,"45,748,867.00",NGN,Nigeria,mobile money,pending,2026-04-10
+TXN_9249059,James Uche,Charity Oyekan,"63,694,770.00",GHS,Ghana,card,success,2025-03-06
+TXN_2516271,Elizabeth Ekwueme,Hope Okafor,"19,184,875.00",GHS,Ghana,card,success,2025-06-24
+TXN_7037354,Mark Ojo,Agnes Ogunleye,"47,913,072.00",KES,Kenya,bank transfer,success,2026-08-14
+TXN_7469472,Peace Eze,Sarah Adeyemi,"58,125,980.00",KES,Kenya,mobile money,failed,2025-02-08
+TXN_7347706,Juliet Akinwale,Patience Abiola,"86,084,087.00",USD,United States,card,success,2026-01-30
+TXN_4183089,Victoria Uche,John Akinwale,"96,073,685.00",ZAR,South Africa,bank transfer,success,2025-10-29
+TXN_1974931,Agnes Uche,Juliet Abiola,"64,279,174.00",ZAR,South Africa,bank transfer,success,2026-06-18
+TXN_1003011,Mark Abiola,Victoria Olawale,"50,520,237.00",USD,United States,bank transfer,success,2026-01-15
+TXN_3406935,Esther Eze,Joseph Balogun,"88,716,196.00",ZAR,South Africa,card,pending,2025-09-11
+TXN_7996258,Blessing Chukwu,Paul Okafor,"884,125.00",USD,United States,mobile money,failed,2026-03-29
+TXN_6392847,Emmanuel Adetokunbo,Gabriel Ibrahim,"669,880.00",GHS,Ghana,card,failed,2025-02-12
+TXN_8982043,Philip Ekwueme,Blessing Uche,"91,209,629.00",ZAR,South Africa,card,pending,2025-04-09
+TXN_5190361,Juliet Eze,Elizabeth Eze,"94,428,525.00",KES,Kenya,mobile money,success,2025-03-31
+TXN_4221659,Deborah Okonkwo,Grace Nnamani,"35,451,174.00",GHS,Ghana,card,success,2024-10-13
+TXN_2042610,Mary Abiola,Andrew Ogunleye,"92,426,095.00",ZAR,South Africa,card,pending,2025-04-13
+TXN_4585284,Nathaniel Abiola,Michael Adeyemi,"15,414,346.00",ZAR,South Africa,card,pending,2026-05-13
+TXN_8265223,Esther Abiola,Gloria Okafor,"801,301.00",KES,Kenya,bank transfer,success,2025-11-17
+TXN_5709814,Comfort Obi,Angela Balogun,"8,502,302.00",GHS,Ghana,mobile money,success,2024-11-02
+TXN_1223086,Benjamin Olawale,Hope Uche,"44,767,095.00",ZAR,South Africa,card,success,2026-08-18
+TXN_7093963,Faith Adeyemi,Philip Adetokunbo,"55,066,269.00",NGN,Nigeria,card,failed,2025-03-22
+TXN_6117956,Victoria Okonkwo,Grace Ekwueme,"35,856,521.00",KES,Kenya,card,failed,2024-09-06
+TXN_9133817,Blessing Eze,Esther Adetokunbo,"71,192,120.00",NGN,Nigeria,mobile money,success,2024-09-25
+TXN_3056806,Patience Okafor,Emmanuel Chukwu,"21,657,779.00",NGN,Nigeria,card,pending,2025-01-22
+TXN_1338019,Philip Abiola,Joshua Ibrahim,"13,590,743.00",USD,United States,card,success,2025-09-25
+TXN_7550340,Emmanuel Ojo,Paul Oyekan,"8,850,811.00",ZAR,South Africa,mobile money,failed,2026-06-01
+TXN_7061054,Philip Oyekan,Patience Uche,"61,923,390.00",NGN,Nigeria,bank transfer,failed,2026-08-14
+TXN_1737134,Michael Eze,Victoria Obasanjo,"9,003,475.00",ZAR,South Africa,mobile money,pending,2025-03-21
+TXN_2044543,Michael Ojo,Blessing Nnamani,"51,501,565.00",USD,United States,card,pending,2025-12-01
+TXN_6222242,Andrew Obasanjo,David Adeyemi,"21,446,169.00",NGN,Nigeria,bank transfer,pending,2025-09-23
+TXN_4369592,Victoria Obi,Samuel Ekwueme,"44,217,567.00",GHS,Ghana,mobile money,pending,2025-01-20
+TXN_6521635,Mark Ibrahim,Nathaniel Uche,"35,754,714.00",KES,Kenya,mobile money,failed,2025-01-10
+TXN_4426154,Peter Okafor,Angela Uche,"46,986,328.00",NGN,Nigeria,mobile money,pending,2024-09-18
+TXN_4059732,Peter Oyekan,Joseph Adeyemi,"48,447,140.00",USD,United States,card,success,2025-04-21
+TXN_4483452,Gabriel Adeyemi,Agnes Ojo,"96,687,470.00",GHS,Ghana,bank transfer,pending,2025-07-13
+TXN_4755818,Philip Eze,Emmanuel Balogun,"40,890,512.00",GHS,Ghana,mobile money,success,2025-09-18
+TXN_1601204,James Nnamani,Joseph Balogun,"33,172,157.00",NGN,Nigeria,card,failed,2026-01-15
+TXN_3957677,Paul Adetokunbo,Cornelius Abiola,"48,875,711.00",KES,Kenya,bank transfer,failed,2026-08-21
+TXN_6614748,Esther Abiola,Peter Eze,"35,344,711.00",GHS,Ghana,card,failed,2025-06-25
+TXN_9030042,Mark Oyekan,Joseph Ojo,"49,359,558.00",KES,Kenya,bank transfer,pending,2025-03-29
+TXN_4752482,Simon Oyekan,Angela Ibrahim,"54,665,909.00",NGN,Nigeria,bank transfer,pending,2026-04-12
+TXN_5757395,Elizabeth Obi,Joseph Obasanjo,"29,531,052.00",NGN,Nigeria,mobile money,success,2025-02-07
+TXN_4615412,James Akinwale,Joseph Eze,"53,550,472.00",NGN,Nigeria,bank transfer,success,2025-06-23
+TXN_5838511,Joshua Eze,Cornelius Obi,"86,648,240.00",GHS,Ghana,mobile money,failed,2026-06-02
+TXN_6021745,Grace Oyekan,Joy Okafor,"91,392,391.00",ZAR,South Africa,card,success,2026-04-25
+TXN_7064815,Hope Adeyemi,Mark Obi,"8,465,541.00",NGN,Nigeria,bank transfer,success,2026-05-11
+TXN_8799367,Sarah Olawale,Andrew Obi,"34,566,376.00",GHS,Ghana,mobile money,failed,2025-12-24
+TXN_4978396,Deborah Akinwale,Grace Okonkwo,"32,013,034.00",KES,Kenya,card,failed,2026-02-27
+TXN_5151261,James Uche,Elizabeth Obi,"21,190,818.00",ZAR,South Africa,bank transfer,pending,2025-08-31
+TXN_5073110,Daniel Balogun,Charity Ibrahim,"22,397,558.00",NGN,Nigeria,bank transfer,failed,2024-11-22
+TXN_5825313,Samuel Olawale,Esther Olawale,"46,712,737.00",NGN,Nigeria,card,failed,2025-08-26
+TXN_2947143,Philip Oshodi,Joshua Okafor,"53,385,086.00",KES,Kenya,mobile money,failed,2025-05-23
+TXN_5780562,Esther Obasanjo,Gloria Olawale,"25,113,466.00",GHS,Ghana,bank transfer,pending,2026-08-15
+TXN_8057284,Gabriel Adetokunbo,Esther Olawale,"47,851,590.00",USD,United States,mobile money,failed,2026-02-08
+TXN_4852229,Elizabeth Olawale,Gloria Ojo,"69,911,968.00",NGN,Nigeria,card,pending,2025-05-01
+TXN_6456866,Joy Ogunleye,Patience Adeyemi,"20,763,611.00",ZAR,South Africa,card,pending,2024-08-30
+TXN_9947164,Stephen Adetokunbo,Cornelius Oyekan,"88,986,938.00",USD,United States,card,failed,2025-02-16
+TXN_9841255,Michael Abiola,Cornelius Chukwu,"44,955,949.00",USD,United States,bank transfer,success,2025-07-12
+TXN_6817409,David Abiola,Joseph Oyekan,"68,488,219.00",ZAR,South Africa,card,success,2024-09-24
+TXN_4679356,Gloria Eze,Patience Eze,"28,838,988.00",NGN,Nigeria,bank transfer,failed,2025-05-09
+TXN_8134307,Sarah Obi,Emmanuel Obasanjo,"24,614,665.00",USD,United States,bank transfer,success,2024-09-18
+TXN_4698312,Cornelius Ekwueme,Benjamin Akinwale,"86,232,883.00",ZAR,South Africa,mobile money,success,2026-07-24
+TXN_9626715,Angela Nnamani,Juliet Ojo,"85,665,118.00",USD,United States,card,success,2025-07-11
+TXN_7923159,Daniel Olawale,John Ogunleye,"85,588,727.00",ZAR,South Africa,mobile money,pending,2026-02-15
+TXN_1464857,Agnes Obasanjo,Gabriel Adeyemi,"71,253,343.00",USD,United States,card,failed,2025-10-21
+TXN_8690488,Michael Oshodi,Sarah Ibrahim,"3,545,179.00",ZAR,South Africa,mobile money,failed,2024-09-09
+TXN_1043083,Juliet Ekwueme,Cornelius Balogun,"22,128,598.00",USD,United States,bank transfer,success,2024-12-15
+TXN_1155327,Grace Ogunleye,Patience Ogunleye,"57,379,515.00",USD,United States,card,success,2025-11-22
+TXN_1563697,Elizabeth Akinwale,Victoria Okafor,"80,134,238.00",ZAR,South Africa,card,failed,2026-07-25
+TXN_2737683,Daniel Obi,Sarah Uche,"67,451,663.00",KES,Kenya,bank transfer,success,2025-01-09
+TXN_6988152,Grace Oshodi,Sarah Chukwu,"86,995,983.00",KES,Kenya,card,pending,2026-05-22
+TXN_9004321,Daniel Ekwueme,David Okonkwo,"97,803,629.00",NGN,Nigeria,bank transfer,pending,2025-12-24
+TXN_5101249,Agnes Ojo,Nathaniel Oyekan,"6,939,545.00",ZAR,South Africa,card,success,2025-03-27
+TXN_5840891,Paul Uche,Philip Nnamani,"84,941,693.00",ZAR,South Africa,card,pending,2025-04-10
+TXN_2783233,Stephen Nnamani,Andrew Balogun,"1,830,526.00",ZAR,South Africa,card,success,2026-06-21
+TXN_5875453,Sarah Ogunleye,Juliet Obi,"43,694,049.00",GHS,Ghana,mobile money,success,2024-11-17
+TXN_6990610,Hope Oshodi,Peace Olawale,"25,156,785.00",KES,Kenya,mobile money,failed,2026-04-15
+TXN_7608470,Juliet Eze,Benjamin Uche,"10,967,870.00",USD,United States,bank transfer,success,2024-09-16
+TXN_7346140,Patience Oshodi,Esther Ekwueme,"27,700,983.00",GHS,Ghana,mobile money,success,2026-05-10
+TXN_7505563,Nathaniel Okonkwo,Andrew Adetokunbo,"48,673,013.00",GHS,Ghana,card,failed,2026-04-08
+TXN_1510453,James Okafor,Comfort Eze,"25,617,531.00",KES,Kenya,card,failed,2024-12-25
+TXN_9583321,Mark Okafor,Blessing Adetokunbo,"55,590,338.00",NGN,Nigeria,bank transfer,success,2026-07-27
+TXN_1841052,Joseph Olawale,Hope Obasanjo,"72,856,324.00",USD,United States,mobile money,failed,2024-10-10
+TXN_7102618,Andrew Obi,Grace Nnamani,"97,454,589.00",USD,United States,mobile money,success,2024-12-12
+TXN_7701546,Cornelius Nnamani,Benjamin Akinwale,"71,728,201.00",GHS,Ghana,bank transfer,success,2024-09-18
+TXN_3238807,Patience Obasanjo,Andrew Adetokunbo,"20,585,137.00",USD,United States,card,success,2025-04-13
+TXN_4118161,Peace Oyekan,Andrew Okonkwo,"6,065,250.00",NGN,Nigeria,mobile money,success,2024-12-20
+TXN_1426118,Nathaniel Okafor,Mark Ekwueme,"26,055,061.00",ZAR,South Africa,card,failed,2024-10-13
+TXN_3801340,Angela Akinwale,Benjamin Chukwu,"57,338,967.00",ZAR,South Africa,bank transfer,failed,2026-06-23
+TXN_3146804,Daniel Akinwale,Angela Obasanjo,"68,159,054.00",GHS,Ghana,bank transfer,pending,2026-02-18
+TXN_6563151,Emmanuel Adetokunbo,Paul Eze,"82,347,114.00",GHS,Ghana,bank transfer,pending,2025-01-31
+TXN_6902685,Angela Adetokunbo,Mark Abiola,"73,250,914.00",KES,Kenya,bank transfer,failed,2025-09-10
+TXN_5603130,Andrew Ekwueme,Grace Uche,"6,699,918.00",GHS,Ghana,mobile money,success,2024-11-24
+TXN_4143506,John Adetokunbo,Grace Oyekan,"49,641,490.00",USD,United States,card,failed,2025-08-27
+TXN_4925890,Daniel Eze,David Adeyemi,"36,636,622.00",USD,United States,mobile money,failed,2026-04-07
+TXN_7476746,Juliet Obasanjo,Simon Abiola,"55,940,358.00",KES,Kenya,card,failed,2025-03-04
+TXN_9239694,John Balogun,Hope Balogun,"31,884,600.00",KES,Kenya,bank transfer,pending,2026-04-14
+TXN_6815897,Hope Olawale,Gabriel Balogun,"29,340,322.00",KES,Kenya,mobile money,success,2025-05-30
+TXN_7868235,Blessing Akinwale,Victoria Ibrahim,"24,291,930.00",USD,United States,card,success,2025-10-03
+TXN_2930740,Emmanuel Okafor,John Okafor,"41,032,009.00",NGN,Nigeria,mobile money,failed,2026-06-12
+TXN_6008184,Nathaniel Uche,Peace Ogunleye,"89,321,580.00",KES,Kenya,card,success,2026-02-22
+TXN_4607434,James Nnamani,James Chukwu,"24,059,333.00",ZAR,South Africa,mobile money,failed,2025-10-21
+TXN_8554696,Deborah Okonkwo,Michael Chukwu,"10,200,831.00",USD,United States,card,failed,2025-10-01
+TXN_8874490,Esther Okafor,Andrew Obi,"5,206,459.00",NGN,Nigeria,mobile money,pending,2026-08-12
+TXN_2607992,Simon Eze,Hope Oshodi,"70,924,095.00",USD,United States,card,pending,2025-11-26
+TXN_4718935,Angela Ogunleye,Stephen Okafor,"44,051,398.00",KES,Kenya,mobile money,success,2026-08-24
+TXN_1723255,John Ojo,Peter Uche,"22,151,126.00",KES,Kenya,mobile money,success,2025-06-30
+TXN_6025227,Samuel Nnamani,Angela Oshodi,"1,217,661.00",USD,United States,card,failed,2026-07-30
+TXN_1921300,Stephen Oshodi,Deborah Okafor,"21,626,673.00",KES,Kenya,bank transfer,success,2024-09-07
+TXN_7412564,Agnes Akinwale,Faith Akinwale,"51,233,314.00",GHS,Ghana,bank transfer,pending,2025-06-13
+TXN_1645437,Comfort Olawale,Victoria Olawale,"14,366,174.00",USD,United States,mobile money,success,2025-04-22
+TXN_9348830,Nathaniel Eze,Esther Abiola,"25,795,804.00",ZAR,South Africa,card,success,2025-01-17
+TXN_7912375,Michael Uche,Nathaniel Obi,"2,657,428.00",KES,Kenya,mobile money,failed,2025-09-03
+TXN_5939957,Mary Oshodi,James Ogunleye,"10,647,391.00",NGN,Nigeria,bank transfer,failed,2026-08-09
+TXN_7815361,Paul Uche,Gloria Okonkwo,"68,727,872.00",NGN,Nigeria,bank transfer,failed,2024-11-11
+TXN_9533445,Joy Obi,Angela Adeyemi,"16,431,905.00",GHS,Ghana,bank transfer,failed,2024-11-26
+TXN_2923875,Angela Ogunleye,Andrew Adeyemi,"48,904,520.00",ZAR,South Africa,bank transfer,failed,2024-10-25
+TXN_4926807,Joseph Balogun,Paul Obasanjo,"64,457,671.00",NGN,Nigeria,mobile money,success,2025-08-16
+TXN_5316352,Simon Abiola,Paul Adetokunbo,"8,083,922.00",USD,United States,mobile money,pending,2025-01-22
+TXN_6298001,James Balogun,Mary Okonkwo,"65,832,144.00",GHS,Ghana,bank transfer,pending,2026-06-24
+TXN_9833937,Cornelius Nnamani,Peace Eze,"28,209,640.00",KES,Kenya,mobile money,failed,2026-03-09
+TXN_6454043,Ruth Adeyemi,Victoria Adetokunbo,"15,925,029.00",ZAR,South Africa,card,success,2025-02-08
+TXN_5378663,Andrew Abiola,Emmanuel Chukwu,"51,422,114.00",ZAR,South Africa,mobile money,success,2026-01-22
+TXN_9655773,Charity Okonkwo,Deborah Oshodi,"92,878,335.00",USD,United States,card,pending,2026-08-01
+TXN_3828776,Daniel Abiola,Gabriel Obi,"58,144,845.00",KES,Kenya,card,failed,2025-11-19
+TXN_3903941,Joshua Obi,Nathaniel Adeyemi,"36,388,553.00",USD,United States,card,pending,2025-07-06
+TXN_5864866,Nathaniel Ekwueme,Blessing Okonkwo,"36,512,787.00",KES,Kenya,mobile money,pending,2025-07-26
+TXN_7441874,Charity Adeyemi,Gabriel Ojo,"55,948,139.00",NGN,Nigeria,bank transfer,pending,2025-02-09
+TXN_8426526,Joseph Ogunleye,Mary Akinwale,"47,411,095.00",NGN,Nigeria,card,success,2024-11-06
+TXN_1794026,Sarah Ojo,Victoria Obasanjo,"74,665,159.00",NGN,Nigeria,card,failed,2024-10-30
+TXN_3068540,Agnes Abiola,Patience Akinwale,"4,396,285.00",KES,Kenya,card,failed,2025-11-03
+TXN_5412373,Peace Obasanjo,Peter Nnamani,"22,074,917.00",GHS,Ghana,mobile money,failed,2026-02-06
+TXN_8942930,Elizabeth Oshodi,Grace Oshodi,"40,049,162.00",ZAR,South Africa,card,pending,2026-05-26
+TXN_2598143,Cornelius Abiola,Joshua Nnamani,"80,294,015.00",GHS,Ghana,card,failed,2026-08-03
+TXN_2629075,Benjamin Ekwueme,Michael Eze,"84,921,434.00",NGN,Nigeria,bank transfer,pending,2025-10-10
+TXN_4476604,Deborah Okafor,Hope Adeyemi,"4,132,524.00",NGN,Nigeria,card,success,2025-07-05
+TXN_1603830,Agnes Ibrahim,Mark Oyekan,"79,806,481.00",USD,United States,mobile money,pending,2025-04-16
+TXN_1655383,Agnes Adeyemi,Angela Chukwu,"63,818,047.00",USD,United States,mobile money,pending,2025-08-11
+TXN_1125154,Faith Uche,Charity Adetokunbo,"12,005,907.00",NGN,Nigeria,mobile money,pending,2024-09-07
+TXN_8053986,Elizabeth Okonkwo,Peter Oshodi,"8,494,405.00",ZAR,South Africa,card,pending,2025-01-19
+TXN_5587921,Sarah Okafor,Comfort Okonkwo,"93,640,906.00",ZAR,South Africa,mobile money,failed,2025-02-14
+TXN_5639957,Philip Nnamani,Simon Olawale,"24,701,064.00",ZAR,South Africa,bank transfer,success,2025-07-21
+TXN_3175521,Elizabeth Adetokunbo,Andrew Oyekan,"73,902,352.00",NGN,Nigeria,bank transfer,pending,2024-12-01
+TXN_7555858,Andrew Abiola,Hope Nnamani,"80,767,432.00",GHS,Ghana,bank transfer,success,2025-07-16
+TXN_7019039,Daniel Okonkwo,Nathaniel Obi,"93,124,446.00",GHS,Ghana,bank transfer,success,2026-07-16
+TXN_3676533,Comfort Akinwale,Mark Okonkwo,"20,209,716.00",ZAR,South Africa,mobile money,success,2026-06-05
+TXN_3031756,Peter Abiola,Cornelius Ibrahim,"76,452,642.00",USD,United States,card,success,2025-12-06
+TXN_9246492,Andrew Akinwale,Gabriel Uche,"28,922,691.00",NGN,Nigeria,mobile money,pending,2025-10-05
+TXN_3743952,Joy Ojo,Charity Okafor,"13,175,439.00",USD,United States,card,pending,2025-01-06
+TXN_4291561,Agnes Olawale,Andrew Balogun,"76,869,458.00",ZAR,South Africa,card,pending,2025-12-16
+TXN_6725755,John Ibrahim,Esther Ibrahim,"17,172,271.00",USD,United States,card,success,2024-08-31
+TXN_5493083,Andrew Okonkwo,Faith Nnamani,"15,517,059.00",ZAR,South Africa,bank transfer,failed,2025-05-15
+TXN_2374869,Philip Akinwale,Mark Abiola,"95,448.00",GHS,Ghana,bank transfer,pending,2024-11-19
+TXN_5332167,John Ojo,Stephen Oshodi,"32,203,389.00",KES,Kenya,bank transfer,pending,2025-01-31
+TXN_2469597,Comfort Ojo,Sarah Oyekan,"11,085,498.00",GHS,Ghana,bank transfer,pending,2025-01-25
+TXN_4627027,Gloria Chukwu,Elizabeth Okafor,"96,907,115.00",GHS,Ghana,card,pending,2025-06-11
+TXN_7812982,Simon Balogun,James Okafor,"54,766,691.00",ZAR,South Africa,card,success,2024-10-30
+TXN_2319618,David Okonkwo,Juliet Okonkwo,"73,951,024.00",NGN,Nigeria,mobile money,success,2025-11-23
+TXN_5542237,Hope Adetokunbo,Faith Oyekan,"40,175,998.00",ZAR,South Africa,bank transfer,failed,2024-09-08
+TXN_5929837,Patience Eze,Grace Ogunleye,"91,134,792.00",NGN,Nigeria,bank transfer,success,2025-03-17
+TXN_9215348,Esther Abiola,Michael Adeyemi,"63,716,604.00",NGN,Nigeria,bank transfer,success,2024-11-25
+TXN_2938843,Sarah Adeyemi,Peter Adetokunbo,"39,616,721.00",KES,Kenya,mobile money,failed,2026-03-20
+TXN_9205782,Joseph Obi,Comfort Akinwale,"96,368,351.00",ZAR,South Africa,mobile money,failed,2026-07-16
+TXN_1856612,Samuel Uche,Stephen Eze,"43,372,443.00",KES,Kenya,card,failed,2025-03-27
+TXN_9104409,Samuel Ekwueme,Nathaniel Obi,"67,744,177.00",GHS,Ghana,bank transfer,success,2025-07-26
+TXN_5025660,James Adetokunbo,Emmanuel Ibrahim,"7,998,615.00",KES,Kenya,mobile money,failed,2025-05-07
+TXN_4391911,Joy Ekwueme,Simon Ogunleye,"98,703,043.00",NGN,Nigeria,bank transfer,failed,2026-07-19
+TXN_8255005,Paul Okonkwo,Peter Okafor,"64,033,355.00",ZAR,South Africa,bank transfer,pending,2024-11-12
+TXN_8368300,Peter Balogun,Agnes Nnamani,"66,860,212.00",USD,United States,card,pending,2025-09-29
+TXN_9161955,Charity Adeyemi,Agnes Uche,"55,870,694.00",USD,United States,bank transfer,failed,2025-02-25
+TXN_2741167,Patience Oyekan,Mary Ogunleye,"18,157,652.00",ZAR,South Africa,bank transfer,failed,2025-11-16
+TXN_4183964,David Balogun,Stephen Eze,"90,819,043.00",KES,Kenya,bank transfer,success,2026-01-12
+TXN_8284210,Emmanuel Okafor,Mary Abiola,"4,796,975.00",NGN,Nigeria,bank transfer,pending,2025-12-21
+TXN_1952154,Joseph Ibrahim,Agnes Adetokunbo,"33,578,446.00",NGN,Nigeria,mobile money,success,2026-04-15
+TXN_8862080,Cornelius Ogunleye,David Balogun,"29,355,544.00",ZAR,South Africa,bank transfer,success,2026-07-06
+TXN_7620119,Mark Obi,Stephen Uche,"19,655,014.00",USD,United States,mobile money,success,2024-10-12
+TXN_9601151,Cornelius Obasanjo,Ruth Adeyemi,"2,341,273.00",GHS,Ghana,mobile money,success,2024-10-18
+TXN_7937772,Paul Ojo,Patience Abiola,"4,932,857.00",NGN,Nigeria,card,failed,2024-09-12
+TXN_1247382,Ruth Oshodi,Simon Olawale,"56,002,000.00",USD,United States,mobile money,pending,2025-05-26
+TXN_4444898,Charity Adeyemi,David Akinwale,"5,449,101.00",GHS,Ghana,bank transfer,success,2025-03-11
+TXN_9293008,Hope Uche,Angela Ibrahim,"83,367,360.00",USD,United States,mobile money,failed,2026-01-29
+TXN_8839318,Joy Uche,Blessing Olawale,"18,091,524.00",NGN,Nigeria,mobile money,failed,2025-12-27
+TXN_5317036,Ruth Ibrahim,Esther Adeyemi,"3,104,227.00",ZAR,South Africa,bank transfer,pending,2026-01-20
+TXN_4206962,Paul Adetokunbo,Deborah Oyekan,"97,730,213.00",NGN,Nigeria,bank transfer,failed,2025-12-04
+TXN_6802084,Andrew Okafor,Cornelius Okonkwo,"2,778,515.00",ZAR,South Africa,card,failed,2026-06-26
+TXN_7988760,Simon Eze,Blessing Chukwu,"90,193,246.00",GHS,Ghana,card,success,2025-02-12
+TXN_8628531,Mark Abiola,Patience Obi,"82,610,425.00",USD,United States,card,failed,2024-11-19
+TXN_5216394,Simon Ogunleye,Benjamin Okafor,"40,589,991.00",GHS,Ghana,bank transfer,success,2025-12-09
+TXN_6017534,Emmanuel Adetokunbo,Gloria Uche,"39,088,370.00",KES,Kenya,mobile money,pending,2025-05-25
+TXN_9046688,Sarah Oyekan,Benjamin Balogun,"9,971,352.00",KES,Kenya,mobile money,pending,2025-04-27
+TXN_2490165,Faith Olawale,Comfort Obasanjo,"45,934,194.00",ZAR,South Africa,bank transfer,success,2026-07-30
+TXN_9361167,Andrew Adeyemi,Sarah Adetokunbo,"81,271,183.00",GHS,Ghana,bank transfer,failed,2025-10-10
+TXN_6115427,Mary Adetokunbo,Stephen Ojo,"94,411,042.00",NGN,Nigeria,bank transfer,pending,2025-10-30
+TXN_8814973,Paul Chukwu,Comfort Oyekan,"16,720,049.00",NGN,Nigeria,bank transfer,pending,2024-11-04
+TXN_3374030,David Okafor,Ruth Chukwu,"81,173,945.00",USD,United States,card,pending,2026-01-14
+TXN_4816870,Philip Chukwu,James Obasanjo,"87,058,575.00",KES,Kenya,card,success,2026-01-10
+TXN_9450278,Mark Adeyemi,James Ogunleye,"94,184,550.00",GHS,Ghana,mobile money,success,2026-07-21
+TXN_7966937,Ruth Oshodi,Paul Ogunleye,"66,849,680.00",NGN,Nigeria,mobile money,pending,2025-02-18
+TXN_5030311,Comfort Adetokunbo,Ruth Uche,"40,926,168.00",ZAR,South Africa,bank transfer,failed,2025-07-20
+TXN_3258395,Elizabeth Balogun,Michael Obasanjo,"68,425,725.00",NGN,Nigeria,card,failed,2026-07-31
+TXN_9459332,Samuel Okafor,Elizabeth Chukwu,"69,694,444.00",ZAR,South Africa,bank transfer,pending,2024-12-23
+TXN_3483594,Sarah Okafor,Charity Nnamani,"77,586,195.00",KES,Kenya,card,pending,2025-05-06
+TXN_6111920,Simon Okafor,Cornelius Akinwale,"61,517,718.00",GHS,Ghana,bank transfer,success,2025-04-30
+TXN_7999071,Emmanuel Chukwu,Faith Abiola,"31,011,094.00",GHS,Ghana,card,success,2026-01-13
+TXN_8390008,Mary Uche,Faith Oshodi,"29,730,010.00",NGN,Nigeria,bank transfer,failed,2026-07-11
+TXN_5840454,Mark Adeyemi,Nathaniel Eze,"19,324,875.00",GHS,Ghana,bank transfer,success,2025-08-01
+TXN_2457936,Joy Adetokunbo,Blessing Okonkwo,"95,350,614.00",GHS,Ghana,bank transfer,failed,2024-09-21
+TXN_2808527,Emmanuel Obi,Joy Olawale,"24,203,103.00",NGN,Nigeria,bank transfer,success,2026-08-10
+TXN_8805387,Ruth Ibrahim,Nathaniel Eze,"71,872,507.00",KES,Kenya,card,failed,2025-02-17
+TXN_8876116,Daniel Olawale,Mark Abiola,"53,941,351.00",NGN,Nigeria,bank transfer,pending,2024-12-24
+TXN_4885192,Joseph Eze,Peace Okonkwo,"90,012,390.00",NGN,Nigeria,mobile money,success,2025-04-13
+TXN_9389086,Ruth Nnamani,Simon Adetokunbo,"46,112,818.00",ZAR,South Africa,mobile money,pending,2025-04-10
+TXN_4301518,Daniel Adeyemi,Nathaniel Oyekan,"33,834,351.00",USD,United States,mobile money,failed,2025-05-26
+TXN_1737768,Nathaniel Oshodi,Joy Okonkwo,"12,856,362.00",ZAR,South Africa,bank transfer,failed,2024-10-31
+TXN_5103895,Mark Abiola,Benjamin Adetokunbo,"74,695,669.00",NGN,Nigeria,mobile money,pending,2025-11-11
+TXN_7459638,Agnes Abiola,Ruth Ojo,"16,741,374.00",GHS,Ghana,card,success,2024-10-09
+TXN_2641357,Mary Adeyemi,Nathaniel Ogunleye,"83,877,859.00",KES,Kenya,mobile money,failed,2026-04-06
+TXN_2613062,Joseph Adeyemi,Andrew Balogun,"97,553,855.00",ZAR,South Africa,bank transfer,pending,2025-01-01
+TXN_3199796,Andrew Nnamani,Mark Okonkwo,"81,717,926.00",KES,Kenya,bank transfer,pending,2024-12-10
+TXN_1775685,Gloria Ekwueme,Andrew Okonkwo,"51,147,410.00",KES,Kenya,card,success,2025-01-29
+TXN_1909883,Blessing Balogun,Victoria Balogun,"87,056,174.00",KES,Kenya,mobile money,failed,2026-06-04
+TXN_6715000,John Oshodi,Gloria Abiola,"45,357,226.00",USD,United States,card,success,2026-05-14
+TXN_5502698,Elizabeth Adeyemi,Emmanuel Obasanjo,"83,443,168.00",KES,Kenya,card,success,2025-07-16
+TXN_1911349,Comfort Uche,Joseph Oshodi,"80,055,021.00",GHS,Ghana,mobile money,failed,2026-03-18
+TXN_1944157,Angela Uche,Gloria Olawale,"2,060,480.00",GHS,Ghana,card,failed,2025-10-03
+TXN_5865319,Elizabeth Adetokunbo,Samuel Ojo,"14,527,653.00",KES,Kenya,mobile money,pending,2025-09-08
+TXN_2633042,Cornelius Ekwueme,Juliet Chukwu,"42,473,224.00",ZAR,South Africa,mobile money,failed,2025-08-19
+TXN_1658565,Comfort Akinwale,Juliet Oyekan,"62,115,695.00",USD,United States,mobile money,pending,2026-04-18
+TXN_2182177,Deborah Chukwu,Joshua Okafor,"26,726,756.00",NGN,Nigeria,mobile money,success,2024-10-19
+TXN_7258071,Nathaniel Adetokunbo,Angela Ogunleye,"2,510,769.00",GHS,Ghana,card,success,2025-03-23
+TXN_7497829,Nathaniel Adeyemi,Hope Abiola,"31,607,805.00",USD,United States,bank transfer,pending,2025-02-15
+TXN_3864337,Victoria Balogun,Joshua Adetokunbo,"5,990,430.00",NGN,Nigeria,card,success,2024-08-27
+TXN_6117954,Esther Obi,Blessing Uche,"95,171,444.00",KES,Kenya,card,pending,2026-03-15
+TXN_2601204,Benjamin Nnamani,Peter Abiola,"62,134,439.00",GHS,Ghana,card,pending,2026-01-02
+TXN_8254152,Comfort Ogunleye,Charity Okafor,"90,844,857.00",USD,United States,card,pending,2025-07-16
+TXN_1978806,Faith Adeyemi,Gabriel Ogunleye,"63,908,737.00",KES,Kenya,mobile money,success,2025-02-04
+TXN_3230847,James Obasanjo,James Chukwu,"97,390,822.00",USD,United States,mobile money,pending,2024-12-23
+TXN_3488915,Michael Okafor,Benjamin Oyekan,"24,406,492.00",GHS,Ghana,card,failed,2024-11-18
+TXN_6400141,Andrew Akinwale,Daniel Adeyemi,"52,091,996.00",KES,Kenya,card,pending,2026-04-01
+TXN_1633216,Andrew Nnamani,Philip Chukwu,"64,752,063.00",GHS,Ghana,card,pending,2025-06-05
+TXN_6142950,Daniel Adeyemi,Joshua Okafor,"28,051,227.00",USD,United States,mobile money,failed,2025-04-02
+TXN_4038367,Victoria Ekwueme,David Ogunleye,"12,826,429.00",NGN,Nigeria,card,failed,2024-09-10
+TXN_9589887,Ruth Ibrahim,Andrew Ekwueme,"6,220,948.00",GHS,Ghana,card,pending,2026-07-03
+TXN_2814720,Stephen Chukwu,Comfort Ogunleye,"46,867,991.00",GHS,Ghana,bank transfer,pending,2025-05-08
+TXN_8734999,Mark Ogunleye,Agnes Abiola,"12,255,112.00",USD,United States,mobile money,success,2025-07-02
+TXN_3287915,Mark Oyekan,Blessing Chukwu,"34,606,677.00",NGN,Nigeria,mobile money,pending,2026-03-23
+TXN_7421228,Andrew Balogun,John Abiola,"2,366,298.00",NGN,Nigeria,bank transfer,failed,2025-04-11
+TXN_8637924,Samuel Ibrahim,Stephen Akinwale,"73,688,782.00",USD,United States,bank transfer,failed,2025-06-08
+TXN_9147598,Mary Ekwueme,Simon Akinwale,"68,515,265.00",USD,United States,mobile money,failed,2026-08-15
+TXN_6638231,Elizabeth Ibrahim,Faith Chukwu,"57,455,953.00",KES,Kenya,card,pending,2025-03-26
+TXN_2481765,Juliet Ogunleye,Cornelius Abiola,"79,133,111.00",GHS,Ghana,bank transfer,failed,2026-03-03
+TXN_5560346,Deborah Okafor,Cornelius Akinwale,"58,412,112.00",NGN,Nigeria,mobile money,pending,2025-08-28
+TXN_9312029,Cornelius Akinwale,Elizabeth Obasanjo,"51,574,910.00",ZAR,South Africa,mobile money,pending,2026-03-04
+TXN_6122367,Elizabeth Obi,Gloria Nnamani,"56,919,275.00",NGN,Nigeria,card,failed,2025-07-31
+TXN_5288597,Gloria Ibrahim,Grace Okonkwo,"69,978,785.00",KES,Kenya,card,failed,2026-02-22
+TXN_7361844,Nathaniel Chukwu,Philip Ekwueme,"90,180,999.00",NGN,Nigeria,card,failed,2026-03-09
+TXN_6629277,Joy Nnamani,Peter Adeyemi,"99,509,148.00",NGN,Nigeria,mobile money,success,2024-12-22
+TXN_3116665,Deborah Okafor,Mark Okafor,"91,463,963.00",KES,Kenya,mobile money,pending,2025-03-03
+TXN_1843157,Joshua Balogun,Mary Adeyemi,"97,299,401.00",NGN,Nigeria,mobile money,success,2024-11-20
+TXN_3608041,Patience Oshodi,Paul Abiola,"69,087,903.00",KES,Kenya,bank transfer,pending,2025-10-10
+TXN_5415974,David Uche,Emmanuel Okafor,"44,354,592.00",NGN,Nigeria,bank transfer,pending,2025-11-05
+TXN_7470413,Philip Ekwueme,Hope Okonkwo,"52,839,597.00",ZAR,South Africa,bank transfer,success,2025-10-19
+TXN_5645524,Gabriel Chukwu,Joseph Chukwu,"54,772,290.00",KES,Kenya,mobile money,success,2025-11-12
+TXN_7157518,Juliet Eze,Daniel Ojo,"66,287,380.00",GHS,Ghana,card,success,2026-08-01
+TXN_6088392,Deborah Ibrahim,Deborah Oyekan,"88,599,525.00",ZAR,South Africa,bank transfer,pending,2026-03-16
+TXN_6891310,Samuel Ojo,James Ojo,"81,145,607.00",ZAR,South Africa,bank transfer,success,2024-12-07
+TXN_9471929,Peter Eze,Emmanuel Eze,"35,939,144.00",KES,Kenya,card,pending,2025-06-28
+TXN_3669426,Joy Oshodi,Deborah Oshodi,"54,801,391.00",USD,United States,mobile money,failed,2026-05-02
+TXN_7193750,Victoria Obi,Simon Ojo,"92,366,981.00",USD,United States,bank transfer,failed,2025-03-27
+TXN_3409651,Andrew Nnamani,Paul Balogun,"55,661,603.00",KES,Kenya,mobile money,success,2026-06-05
+TXN_3570390,Agnes Obasanjo,Gabriel Balogun,"3,216,448.00",USD,United States,bank transfer,pending,2024-12-09
+TXN_9081777,Samuel Obasanjo,Joseph Uche,"99,539,414.00",ZAR,South Africa,mobile money,pending,2025-03-19
+TXN_2145820,Blessing Ogunleye,Paul Oshodi,"84,859,009.00",GHS,Ghana,mobile money,failed,2025-12-30
+TXN_1457134,Samuel Okonkwo,Victoria Adetokunbo,"3,425,808.00",NGN,Nigeria,bank transfer,failed,2025-03-21
+TXN_6700685,Mark Okafor,Elizabeth Olawale,"72,297,646.00",NGN,Nigeria,card,pending,2025-02-18
+TXN_4224716,Gloria Nnamani,Paul Uche,"37,644,766.00",USD,United States,bank transfer,failed,2025-02-10
+TXN_2171433,Peter Uche,Gloria Oshodi,"11,866,065.00",USD,United States,bank transfer,success,2024-09-19
+TXN_7653431,Blessing Eze,Victoria Oshodi,"15,682,589.00",ZAR,South Africa,mobile money,failed,2024-08-28
+TXN_2108475,Sarah Uche,Ruth Obasanjo,"18,718,854.00",NGN,Nigeria,mobile money,pending,2025-05-25
+TXN_6220976,Joshua Abiola,Stephen Abiola,"83,619,214.00",KES,Kenya,mobile money,failed,2024-11-07
+TXN_3303861,Paul Obi,Hope Ojo,"15,560,116.00",NGN,Nigeria,bank transfer,success,2024-10-02
+TXN_3578626,Esther Oshodi,Charity Balogun,"9,218,198.00",KES,Kenya,mobile money,pending,2026-04-09
+TXN_2991016,Grace Obasanjo,Samuel Obi,"5,703,398.00",NGN,Nigeria,card,failed,2025-04-29
+TXN_5168112,Comfort Oyekan,Ruth Ogunleye,"208,590.00",ZAR,South Africa,card,success,2025-02-23
+TXN_3855750,Gabriel Okonkwo,Andrew Chukwu,"2,215,163.00",GHS,Ghana,mobile money,pending,2024-11-01
+TXN_7865356,Stephen Abiola,Mark Olawale,"48,200,080.00",USD,United States,mobile money,success,2026-08-22
+TXN_5867882,Gloria Olawale,Angela Adetokunbo,"985,866.00",NGN,Nigeria,bank transfer,success,2026-07-20
+TXN_5146884,Peter Akinwale,Sarah Oyekan,"47,019,977.00",ZAR,South Africa,bank transfer,success,2025-04-17
+TXN_2430579,John Balogun,John Okafor,"39,595,103.00",NGN,Nigeria,bank transfer,success,2026-05-10
+TXN_6225456,David Okafor,David Ogunleye,"52,224,116.00",ZAR,South Africa,card,failed,2024-11-14
+TXN_5002135,Comfort Obasanjo,Faith Balogun,"79,524,012.00",ZAR,South Africa,card,pending,2024-10-20
+TXN_1704605,James Chukwu,Joy Ibrahim,"44,853,217.00",KES,Kenya,mobile money,pending,2024-12-28
+TXN_7615029,Faith Obasanjo,Emmanuel Okonkwo,"2,341,842.00",GHS,Ghana,card,pending,2026-06-07
+TXN_2582267,Angela Balogun,Gloria Oyekan,"19,387,378.00",NGN,Nigeria,card,pending,2026-02-02
+TXN_5129488,Peace Oyekan,Blessing Ogunleye,"77,516,041.00",ZAR,South Africa,bank transfer,failed,2026-01-30
+TXN_3573679,Faith Okafor,Stephen Balogun,"8,597,552.00",USD,United States,bank transfer,failed,2025-12-02
+TXN_5947339,Victoria Okonkwo,Benjamin Abiola,"16,655,469.00",USD,United States,card,failed,2025-02-10
+TXN_5436012,Cornelius Ibrahim,Deborah Adeyemi,"12,276,737.00",GHS,Ghana,bank transfer,pending,2025-06-21
+TXN_2355062,Michael Okafor,David Adeyemi,"77,145,906.00",NGN,Nigeria,mobile money,pending,2026-03-30
+TXN_4581791,Joy Abiola,Joy Adetokunbo,"16,867,595.00",ZAR,South Africa,mobile money,success,2026-04-02
+TXN_4958680,Gloria Balogun,Gabriel Nnamani,"33,565,181.00",ZAR,South Africa,card,success,2026-04-05
+TXN_1550531,Agnes Uche,Simon Oyekan,"43,018,394.00",USD,United States,card,success,2026-02-24
+TXN_7935707,Blessing Eze,Michael Ekwueme,"77,643,367.00",KES,Kenya,bank transfer,failed,2025-09-11
+TXN_8749784,Ruth Adetokunbo,Paul Olawale,"70,279,393.00",ZAR,South Africa,card,success,2025-10-22
+TXN_1922085,Ruth Okafor,Mark Ibrahim,"15,330,805.00",GHS,Ghana,card,failed,2025-11-12
+TXN_7701739,Ruth Balogun,Esther Okafor,"25,945,957.00",ZAR,South Africa,mobile money,pending,2024-10-28
+TXN_2704953,Angela Olawale,Agnes Okonkwo,"10,166,823.00",USD,United States,bank transfer,success,2025-11-13
+TXN_6084497,Emmanuel Oyekan,James Okonkwo,"90,826,307.00",GHS,Ghana,mobile money,pending,2024-10-02
+TXN_5918320,Andrew Akinwale,Hope Obi,"1,439,758.00",USD,United States,card,success,2024-08-27
+TXN_6423936,David Oyekan,Grace Adeyemi,"6,377,384.00",NGN,Nigeria,mobile money,failed,2024-10-25
+TXN_5372166,Stephen Uche,Daniel Akinwale,"3,944,760.00",ZAR,South Africa,card,failed,2026-04-26
+TXN_8785022,John Oshodi,Michael Okafor,"51,328,344.00",NGN,Nigeria,card,pending,2026-04-03
+TXN_4152864,Benjamin Ekwueme,Philip Obasanjo,"3,854,891.00",NGN,Nigeria,bank transfer,success,2026-04-05
+TXN_5168559,Peace Obi,Blessing Chukwu,"44,793,347.00",GHS,Ghana,card,pending,2026-03-30
+TXN_3518944,Ruth Okafor,David Ibrahim,"29,106,512.00",KES,Kenya,card,pending,2024-10-03
+TXN_2506939,James Uche,Charity Obi,"15,253,940.00",USD,United States,card,failed,2024-11-20
+TXN_2636072,Simon Balogun,Joseph Balogun,"60,792,178.00",USD,United States,mobile money,failed,2025-09-06
+TXN_1103797,Esther Abiola,Nathaniel Oyekan,"87,598,073.00",USD,United States,bank transfer,failed,2025-09-12
+TXN_5919857,Blessing Ojo,John Balogun,"36,350,944.00",NGN,Nigeria,mobile money,success,2025-05-17
+TXN_9993512,Joshua Olawale,Gabriel Balogun,"84,606,990.00",NGN,Nigeria,bank transfer,success,2025-12-14
+TXN_4251868,David Obasanjo,Emmanuel Adetokunbo,"10,105,269.00",KES,Kenya,bank transfer,success,2026-04-01
+TXN_5035415,Victoria Oyekan,Emmanuel Okafor,"97,639,251.00",GHS,Ghana,bank transfer,failed,2025-01-16
+TXN_7816266,Hope Okafor,Esther Obi,"47,036,316.00",GHS,Ghana,mobile money,success,2025-07-24
+TXN_9897117,Paul Adetokunbo,Simon Nnamani,"72,005,563.00",KES,Kenya,bank transfer,failed,2024-12-07
+TXN_9917007,Peter Obasanjo,Mark Adetokunbo,"24,314,277.00",USD,United States,mobile money,success,2025-01-31
+TXN_4778465,Grace Obi,John Adeyemi,"52,433,462.00",USD,United States,bank transfer,success,2025-09-18
+TXN_8394692,John Obasanjo,Nathaniel Ojo,"50,243,049.00",NGN,Nigeria,mobile money,success,2025-04-05
+TXN_4069887,Joy Okonkwo,Michael Oshodi,"27,126,377.00",GHS,Ghana,bank transfer,success,2025-03-29
+TXN_7826098,Benjamin Nnamani,Gloria Akinwale,"33,049,890.00",USD,United States,mobile money,pending,2026-07-15
+TXN_7636257,Paul Uche,Mark Ojo,"29,135,264.00",NGN,Nigeria,mobile money,failed,2025-01-12
+TXN_9017804,Faith Chukwu,Comfort Okonkwo,"17,873,875.00",KES,Kenya,mobile money,failed,2025-09-13
+TXN_7636930,Faith Adeyemi,Agnes Eze,"53,612,058.00",KES,Kenya,mobile money,pending,2025-07-05
+TXN_1551375,Joy Okonkwo,Agnes Abiola,"13,244,267.00",USD,United States,card,pending,2025-11-24
+TXN_5451752,Joy Adeyemi,Juliet Adeyemi,"53,028,355.00",ZAR,South Africa,bank transfer,failed,2024-10-07
+TXN_8162667,Comfort Nnamani,Sarah Akinwale,"33,269,767.00",USD,United States,bank transfer,success,2026-05-24
+TXN_8483236,Peace Ojo,Samuel Ekwueme,"72,956,468.00",GHS,Ghana,mobile money,failed,2025-04-16
+TXN_2108738,James Adetokunbo,Samuel Obasanjo,"24,614,106.00",NGN,Nigeria,bank transfer,failed,2025-03-06
+TXN_8586364,James Obasanjo,Samuel Oshodi,"34,457,482.00",NGN,Nigeria,bank transfer,pending,2024-12-23
+TXN_5509284,Philip Obi,Stephen Ekwueme,"65,693,956.00",GHS,Ghana,bank transfer,success,2024-11-10
+TXN_6790952,Daniel Ogunleye,Peter Ogunleye,"43,452,058.00",GHS,Ghana,bank transfer,failed,2025-05-15
+TXN_1922537,Sarah Olawale,Juliet Olawale,"41,521,630.00",USD,United States,mobile money,success,2025-10-02
+TXN_7621141,Juliet Okafor,Agnes Balogun,"61,054,892.00",GHS,Ghana,mobile money,pending,2025-07-09
+TXN_5671371,Esther Okonkwo,Elizabeth Oyekan,"53,719,982.00",NGN,Nigeria,bank transfer,success,2026-02-10
+TXN_2720103,Agnes Ekwueme,Nathaniel Eze,"11,231,837.00",GHS,Ghana,bank transfer,success,2026-08-05
+TXN_6793502,Grace Ekwueme,James Nnamani,"28,228,226.00",GHS,Ghana,card,pending,2025-05-03
+TXN_3476657,Peace Adetokunbo,Simon Ogunleye,"96,518,017.00",NGN,Nigeria,card,failed,2024-12-30
+TXN_9734533,Emmanuel Ekwueme,Nathaniel Adetokunbo,"26,925,929.00",NGN,Nigeria,mobile money,pending,2025-10-09
+TXN_1858096,Charity Obi,Sarah Obasanjo,"8,505,595.00",ZAR,South Africa,bank transfer,success,2025-02-16
+TXN_2644794,Daniel Olawale,Sarah Nnamani,"31,093,050.00",GHS,Ghana,bank transfer,success,2025-12-16
+TXN_1643483,Joshua Akinwale,Juliet Adeyemi,"39,793,634.00",ZAR,South Africa,bank transfer,success,2026-03-23
+TXN_1903400,Michael Obasanjo,Gabriel Okonkwo,"28,147,508.00",USD,United States,mobile money,success,2025-10-24
+TXN_9430271,Hope Nnamani,Gloria Eze,"62,906,169.00",NGN,Nigeria,mobile money,failed,2024-10-15
+TXN_6417632,Peace Oshodi,Gloria Chukwu,"62,841,953.00",USD,United States,card,success,2026-05-20
+TXN_6874584,Agnes Okonkwo,Agnes Olawale,"90,485,917.00",NGN,Nigeria,mobile money,failed,2025-12-07
+TXN_8512024,Victoria Okonkwo,Nathaniel Balogun,"67,914,352.00",KES,Kenya,card,failed,2025-10-17
+TXN_9831901,John Obasanjo,Blessing Okafor,"11,263,935.00",ZAR,South Africa,bank transfer,pending,2026-04-23
+TXN_5533723,Ruth Okafor,Hope Nnamani,"60,589,583.00",USD,United States,card,success,2024-10-11
+TXN_9483314,Blessing Obi,Mary Akinwale,"28,412,868.00",ZAR,South Africa,mobile money,success,2025-12-10
+TXN_4938727,Paul Obasanjo,Angela Adetokunbo,"99,314,090.00",ZAR,South Africa,card,failed,2026-03-12
+TXN_2974602,Daniel Adeyemi,Andrew Obi,"82,895,405.00",USD,United States,card,success,2024-11-24
+TXN_8198799,Cornelius Eze,Gabriel Abiola,"21,467,563.00",ZAR,South Africa,mobile money,success,2026-06-08
+TXN_6319869,Ruth Eze,Blessing Oyekan,"75,203,331.00",NGN,Nigeria,mobile money,pending,2025-04-17
+TXN_8024983,Peace Adetokunbo,Benjamin Obi,"98,826,772.00",NGN,Nigeria,bank transfer,success,2024-12-26
+TXN_1276703,Andrew Abiola,Daniel Abiola,"64,973,228.00",KES,Kenya,mobile money,success,2026-03-10
+TXN_5017429,Angela Ogunleye,James Nnamani,"779,551.00",USD,United States,card,pending,2026-06-10
+TXN_9585424,Stephen Ibrahim,Sarah Okafor,"38,359,087.00",NGN,Nigeria,card,failed,2025-03-18
+TXN_9248326,Esther Akinwale,John Uche,"9,906,541.00",NGN,Nigeria,bank transfer,pending,2025-05-28
+TXN_9956971,Blessing Akinwale,Joseph Chukwu,"81,354,418.00",ZAR,South Africa,mobile money,success,2025-03-21
+TXN_2261764,Nathaniel Obasanjo,Stephen Balogun,"59,467,966.00",ZAR,South Africa,mobile money,success,2025-07-27
+TXN_1730665,Mark Akinwale,Ruth Ekwueme,"61,781,221.00",ZAR,South Africa,bank transfer,pending,2025-02-06
+TXN_9617847,Cornelius Obasanjo,Paul Obi,"20,410,574.00",GHS,Ghana,bank transfer,failed,2026-08-22
+TXN_7802406,Daniel Oyekan,Paul Olawale,"78,897,892.00",USD,United States,bank transfer,success,2025-03-27
+TXN_1241713,Sarah Oshodi,Angela Okonkwo,"45,735,976.00",KES,Kenya,bank transfer,success,2025-12-29
+TXN_3288091,David Balogun,Michael Balogun,"12,271,279.00",USD,United States,bank transfer,failed,2025-08-15
+TXN_2687382,Deborah Oyekan,John Okonkwo,"64,373,642.00",GHS,Ghana,bank transfer,failed,2026-08-18
+TXN_6667853,Philip Oshodi,Sarah Nnamani,"27,531,211.00",KES,Kenya,bank transfer,success,2026-01-17
+TXN_2711609,Grace Olawale,Charity Abiola,"53,573,212.00",GHS,Ghana,bank transfer,failed,2025-05-07
+TXN_5918811,Angela Ojo,David Obasanjo,"88,514,612.00",GHS,Ghana,card,success,2025-01-16
+TXN_1500388,Gabriel Uche,Joseph Ibrahim,"69,125,466.00",NGN,Nigeria,bank transfer,pending,2025-09-05
+TXN_2799152,Joshua Chukwu,Comfort Okonkwo,"81,214,873.00",KES,Kenya,mobile money,pending,2025-07-29
+TXN_3705382,Daniel Ojo,Sarah Obasanjo,"42,845,848.00",USD,United States,mobile money,pending,2024-10-09
+TXN_9537884,Faith Adeyemi,Elizabeth Oshodi,"2,589,294.00",ZAR,South Africa,bank transfer,success,2025-01-10
+TXN_6058614,Comfort Nnamani,Stephen Oyekan,"46,096,026.00",KES,Kenya,bank transfer,failed,2025-07-24
+TXN_5664345,Joseph Okafor,Gloria Chukwu,"74,891,946.00",KES,Kenya,card,pending,2026-04-07
+TXN_8311085,Benjamin Ibrahim,Joseph Eze,"30,436,212.00",USD,United States,bank transfer,failed,2025-06-16
+TXN_1869813,Cornelius Okonkwo,Simon Oyekan,"12,677,846.00",USD,United States,bank transfer,failed,2024-11-25
+TXN_4843819,Elizabeth Ibrahim,Joseph Akinwale,"21,430,403.00",USD,United States,bank transfer,success,2026-06-15
+TXN_7655182,Paul Balogun,Samuel Uche,"881,762.00",GHS,Ghana,card,failed,2025-08-14
+TXN_8220449,Peace Ojo,Comfort Okonkwo,"12,043,671.00",GHS,Ghana,bank transfer,success,2025-05-02
+TXN_7320736,Stephen Okonkwo,Benjamin Ojo,"54,284,771.00",USD,United States,mobile money,pending,2026-02-01
+TXN_2294975,Simon Adetokunbo,Daniel Chukwu,"70,763,142.00",GHS,Ghana,bank transfer,pending,2024-10-31
+TXN_2310485,Andrew Ekwueme,Philip Okonkwo,"56,237,134.00",ZAR,South Africa,card,failed,2025-12-31
+TXN_9505976,Agnes Ekwueme,Michael Obi,"87,622,819.00",NGN,Nigeria,mobile money,success,2026-07-06
+TXN_1690664,Simon Balogun,Esther Adetokunbo,"76,654,440.00",GHS,Ghana,bank transfer,failed,2024-10-09
+TXN_2747304,Samuel Adetokunbo,Ruth Nnamani,"27,875,167.00",NGN,Nigeria,bank transfer,success,2026-03-19
+TXN_3713202,Peter Olawale,Agnes Ojo,"72,705,491.00",USD,United States,mobile money,success,2025-06-02
+TXN_2496317,Juliet Chukwu,Peter Oshodi,"95,793,371.00",USD,United States,card,pending,2026-03-24
+TXN_1866982,Joshua Eze,Patience Ogunleye,"5,440,952.00",USD,United States,bank transfer,pending,2025-05-10
+TXN_2078827,Stephen Olawale,Mark Balogun,"34,460,406.00",NGN,Nigeria,bank transfer,failed,2026-02-26
+TXN_6518591,Hope Obi,Charity Oyekan,"18,187,664.00",NGN,Nigeria,bank transfer,success,2025-03-10
+TXN_8276395,Joseph Adetokunbo,Charity Abiola,"53,366,145.00",KES,Kenya,bank transfer,pending,2024-11-06
+TXN_5241510,Elizabeth Balogun,Paul Ogunleye,"20,413,943.00",GHS,Ghana,mobile money,success,2025-02-05
+TXN_5730798,Charity Ibrahim,Stephen Ojo,"66,586,579.00",USD,United States,bank transfer,pending,2025-05-17
+TXN_2829493,Esther Okafor,Grace Olawale,"9,310,687.00",KES,Kenya,mobile money,pending,2025-06-11
+TXN_8057632,John Ojo,Comfort Ekwueme,"29,693,203.00",NGN,Nigeria,bank transfer,success,2025-12-19
+TXN_9736372,Nathaniel Okafor,Philip Ibrahim,"3,902,263.00",ZAR,South Africa,bank transfer,failed,2026-01-09
+TXN_9313603,Stephen Ekwueme,Peter Ojo,"32,659,949.00",ZAR,South Africa,mobile money,pending,2025-06-18
+TXN_9776604,Daniel Okonkwo,Michael Akinwale,"99,895,400.00",NGN,Nigeria,card,success,2024-09-12
+TXN_7458403,Comfort Chukwu,Cornelius Adetokunbo,"62,565,864.00",KES,Kenya,card,failed,2025-10-21
+TXN_9471285,Benjamin Abiola,Stephen Obasanjo,"20,461,649.00",USD,United States,mobile money,failed,2025-01-23
+TXN_6617674,Elizabeth Uche,Victoria Balogun,"40,961,519.00",KES,Kenya,bank transfer,pending,2026-08-27
+TXN_9098221,Juliet Okonkwo,Angela Abiola,"6,268,156.00",NGN,Nigeria,card,success,2025-07-20
+TXN_1650127,Joshua Okonkwo,Charity Chukwu,"22,529,172.00",NGN,Nigeria,card,success,2025-11-25
+TXN_9146218,James Olawale,Philip Chukwu,"72,730,828.00",ZAR,South Africa,bank transfer,pending,2024-11-09
+TXN_4359621,Juliet Okonkwo,Cornelius Ibrahim,"93,741,947.00",USD,United States,card,success,2026-06-08
+TXN_1944990,Cornelius Abiola,Comfort Oyekan,"14,941,427.00",ZAR,South Africa,card,success,2026-04-10
+TXN_6877843,Sarah Okafor,Joseph Olawale,"68,351,560.00",USD,United States,card,failed,2024-11-11
