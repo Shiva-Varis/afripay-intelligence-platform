@@ -41,7 +41,7 @@ for _ in range(1001):
             elements=["card", "mobile money", "bank transfer"]
         ),
         "status": fake.random_element(elements=["success", "failed", "pending"]),
-        "timestamp": fake.date_between(start_date="-2y", end_date="today"),
+        "timestamp": fake.date_time_between(start_date="-2y", end_date="now"),
     })
 
 df = pd.DataFrame(transaction_rows)
