@@ -4,7 +4,6 @@ import random
 
 fake = Faker(["en_NG"])
 
-# Define supported countries and their base local currencies
 country_base_currency = {
     "Nigeria": "NGN",
     "Kenya": "KES",
