@@ -1,5 +1,5 @@
 venv/
-.git//
+.git/
 .gitignore
 .venv/
 .ruff_cache/
